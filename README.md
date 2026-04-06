@@ -3,6 +3,10 @@
 Sample high-throughput screening (HTS) dataset with 5 simulated 384-well plates,
 including QC analysis, normalization, and hit identification.
 
+What I am looking to accomplish here? 
+- Plot the QC metrics for all plates
+- Short-list hits from single-point data for dose-responses to eventually get at IC50s
+
 ---
 
 ## Plate Layout
