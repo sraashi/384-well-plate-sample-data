@@ -1,17 +1,13 @@
-# 384-Well Plate Sample Data — HTS Analysis Pipeline
+# 384-Well Plate HTS Analysis Pipeline
 
-Sample high-throughput screening (HTS) dataset with 5 simulated 384-well plates,
-including QC analysis, normalization, and hit identification.
-
-What I am looking to accomplish here? 
-- Plot the QC metrics for all plates
-- Short-list hits from single-point data for dose-responses to eventually get at IC50s
+A fully automated high-throughput screening (HTS) analysis pipeline using 5 simulated 384-well plates.
+The pipeline runs as a sequence of Jupyter notebooks, taking raw plate RFU data through to IC50 calculation.
 
 ---
 
 ## Plate Layout
 
-Each plate is a 16-row (A–P) × 24-column (1–24) grid with the following control layout:
+Each plate is a 16-row (A–P) × 24-column (1–24) grid:
 
 ```
      01  02  03  04 ... 20  21  22  23  24
@@ -32,33 +28,31 @@ N  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
 O  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
 P  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
 
-L = Low control     (~100–500 RFU)      — Col 1 (all rows), Col 23 rows A–H
-M = Medium control  (~5,000–15,000 RFU) — Col 2 rows A–H, Col 23 rows I–P
-H = High control    (~25,000–35,000 RFU)— Col 2 rows I–P, Col 24 (all rows)
-E = Experimental    (~500–30,000 RFU)   — Columns 3–22 (all rows)
+L = Low control     (~100–500 RFU)       Col 1 all rows, Col 23 rows A–H
+M = Medium control  (~5,000–15,000 RFU)  Col 2 rows A–H, Col 23 rows I–P
+H = High control    (~25,000–35,000 RFU) Col 2 rows I–P, Col 24 all rows
+E = Experimental    (~500–30,000 RFU)    Columns 3–22 all rows
 ```
 
 ---
 
-## Steps
+## Pipeline
 
-### Step 1: Generate Plate Data
-Raw RFU values were simulated using `numpy.random.normal()` with the following parameters:
+Run the notebooks in order. Each notebook reads from the previous one's output.
 
-| Well Type | Mean (RFU) | Std Dev | Clipped Range |
-|---|---|---|---|
-| Low control | 300 | 80 | 50–600 |
-| Medium control | 10,000 | 2,000 | 4,000–18,000 |
-| High control | 30,000 | 2,000 | 22,000–38,000 |
-| Experimental | 15,000 | 8,000 | 200–38,000 |
+| Notebook | Description | Output |
+|---|---|---|
+| `01_plate_metadata.ipynb` | Define plate layout and control positions | `data/plate_metadata.json` |
+| `02_load_raw_data.ipynb` | Load all raw plate CSVs into a unified long-format dataset | `data/processed/all_plates_raw.csv` |
+| `03_qc_and_normalization.ipynb` | Calculate Z', %CV, Signal Window; normalize to controls | `data/processed/qc_metrics.csv`, `all_plates_normalized.csv` |
+| `04_plot_qc_metrics.ipynb` | Trellis heatmaps and QC metric bar charts across all plates | `data/results/trellis_QC_plot.png` |
+| `05_hit_calling.ipynb` | Flag experimental wells >50% and >75% activity | `data/results/hits_50pct.csv`, `hits_75pct.csv` |
+| `06_dose_response_setup.ipynb` | Cherry-pick top hits and generate 8-point dose-response data | `data/results/dose_response_data.csv` |
+| `07_ic50_calculation.ipynb` | Fit 4PL curve per compound and calculate IC50 | `data/results/ic50_results.csv`, `ic50_curves.png` |
 
-5 plates were generated with different random seeds. Raw data saved as:
-- `sample_384_plate.csv` — Plate 1
-- `sample_384_plate2.csv` through `sample_384_plate5.csv` — Plates 2–5
+---
 
-### Step 2: Calculate QC Metrics
-Calculated per plate using all low control wells (Col 1 + Col 23 rows A–H, n=24)
-and all high control wells (Col 24 + Col 2 rows I–P, n=24).
+## QC Metrics
 
 | Metric | Formula | Pass Threshold |
 |---|---|---|
@@ -66,10 +60,6 @@ and all high control wells (Col 24 + Col 2 rows I–P, n=24).
 | %CV Low | `(σ_low / μ_low) × 100` | < 10% |
 | %CV High | `(σ_high / μ_high) × 100` | < 10% |
 | Signal Window | `(μ_high - 3σ_high - μ_low - 3σ_low) / σ_low` | > 2 |
-
-Results saved in `plate_QC_metrics.csv` (Plate 1) and `all_plates_QC_metrics.csv` (all 5 plates).
-
-QC summary across plates:
 
 | Plate | Z' | %CV Low | %CV High | Signal Window |
 |---|---|---|---|---|
@@ -79,76 +69,71 @@ QC summary across plates:
 | Plate 4 | 0.820 ✓ | 26.09% ✗ | 5.70% ✓ | 322.64 ✓ |
 | Plate 5 | 0.776 ✓ | 28.04% ✗ | 7.12% ✓ | 279.40 ✓ |
 
-Note: %CV Low consistently fails because low control RFU values (~300 RFU) are near
-background noise, making them inherently more variable. This is typical in real HTS assays.
+Note: %CV Low consistently fails because low control RFU values (~300 RFU) sit close to
+background noise, making them inherently variable. This is typical in real HTS assays.
 
-### Step 3: Normalize Experimental Data
-Each well normalized to the plate's mean low and high control values:
+---
+
+## Normalization
 
 ```
 % Activity = (Signal - Mean_Low) / (Mean_High - Mean_Low) × 100
 ```
 
-- 0% = low control level (no activity)
-- 100% = high control level (full activity)
-- Values outside 0–100% reflect assay noise (expected in real screens)
-
-Normalized plates saved as `sample_384_plate_normalized.csv` through `sample_384_plate5_normalized.csv`.
-
-### Step 4: Trellis QC Plot
-A trellis plot (`trellis_QC_plot.png`) was generated showing:
-- **Top two rows:** Heatmaps of normalized % activity for all 5 plates (red = low, green = high)
-- **Bottom row:** Bar charts comparing Z', %CV Low, %CV High, and Signal Window across all 5 plates,
-  with red dashed lines indicating pass/fail thresholds
-
-### Step 5: Hit Identification — >50% Activity
-Experimental wells (columns 3–22) with normalized % activity > 50% were flagged as hits.
-Control wells were excluded.
-
-- Total hits: **794 across 5 plates** (~50% of experimental wells, as expected from random data)
-- Saved in `hits_above_50pct.csv`
-
-### Step 6: Hit Refinement — >75% Activity
-Hits were further filtered to >75% activity, representing stronger candidates.
-
-- Total hits: **253 across 5 plates**
-- Saved in `hits_above_75pct.csv`
-
-| Plate | Hits >75% |
-|---|---|
-| Plate 1 | 44 |
-| Plate 2 | 54 |
-| Plate 3 | 44 |
-| Plate 4 | 58 |
-| Plate 5 | 53 |
-
-Top 10 strongest hits:
-
-| Plate | Well | % Activity |
-|---|---|---|
-| Plate 5 | D14 | 129.24% |
-| Plate 5 | F03 | 129.24% |
-| Plate 5 | K19 | 129.24% |
-| Plate 3 | I14 | 127.68% |
-| Plate 2 | N05 | 127.58% |
-| Plate 4 | C10 | 127.05% |
-| Plate 1 | I18 | 125.97% |
-| Plate 1 | H12 | 121.83% |
-| Plate 2 | O15 | 121.54% |
-| Plate 4 | L13 | 120.53% |
+- 0% = low control (baseline)
+- 100% = high control (full effect)
+- Values outside 0–100% reflect assay noise
 
 ---
 
-## Files
+## Hit Calling
 
-| File | Description |
-|---|---|
-| `sample_384_plate.csv` | Raw RFU data, Plate 1 |
-| `sample_384_plate2.csv` – `sample_384_plate5.csv` | Raw RFU data, Plates 2–5 |
-| `sample_384_plate_normalized.csv` | Normalized % activity, Plate 1 |
-| `sample_384_plate2_normalized.csv` – `sample_384_plate5_normalized.csv` | Normalized % activity, Plates 2–5 |
-| `plate_QC_metrics.csv` | QC metrics for Plate 1 with pass/fail |
-| `all_plates_QC_metrics.csv` | QC metrics summary across all 5 plates |
-| `trellis_QC_plot.png` | Trellis heatmap and QC bar charts |
-| `hits_above_50pct.csv` | All experimental hits >50% activity |
-| `hits_above_75pct.csv` | Refined hits >75% activity |
+- **>50% activity:** 794 hits across 5 plates
+- **>75% activity:** 253 hits across 5 plates (used for dose-response follow-up)
+
+Top 10 hits by % activity:
+
+| Plate | Well | % Activity |
+|---|---|---|
+| Plate 5 | D14, F03, K19 | 129.2% |
+| Plate 3 | I14 | 127.7% |
+| Plate 2 | N05 | 127.6% |
+| Plate 4 | C10 | 127.1% |
+| Plate 1 | I18 | 126.0% |
+| Plate 1 | H12 | 121.8% |
+| Plate 2 | O15 | 121.5% |
+| Plate 4 | L13 | 120.5% |
+
+---
+
+## IC50 Calculation
+
+Top 20 hits by % activity were taken forward for dose-response (8 concentrations: 0.03–100 µM).
+A 4-parameter logistic (4PL) curve was fitted per compound using `scipy.optimize.curve_fit`:
+
+```
+f(x) = A + (D - A) / (1 + (C/x)^B)
+```
+
+Results saved in `data/results/ic50_results.csv`. See also the companion repo:
+[4-PL-Curve-fit-in-Python](https://github.com/sraashi/4-PL-Curve-fit-in-Python---numpy-and-scipy)
+
+---
+
+## Repo Structure
+
+```
+├── 01_plate_metadata.ipynb
+├── 02_load_raw_data.ipynb
+├── 03_qc_and_normalization.ipynb
+├── 04_plot_qc_metrics.ipynb
+├── 05_hit_calling.ipynb
+├── 06_dose_response_setup.ipynb
+├── 07_ic50_calculation.ipynb
+├── data/
+│   ├── plate_metadata.json
+│   ├── raw/                  ← raw plate CSVs (5 plates)
+│   ├── processed/            ← normalized data and QC metrics
+│   └── results/              ← plots, hit lists, IC50 results
+└── README.md
+```
