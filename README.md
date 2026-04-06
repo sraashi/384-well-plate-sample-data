@@ -62,7 +62,7 @@ and all high control wells (Col 24 + Col 2 rows I–P, n=24).
 
 | Metric | Formula | Pass Threshold |
 |---|---|---|
-| Z' | `1 - (3σ_high + 3σ_low) / |μ_high - μ_low|` | > 0.5 |
+| Z' | `1 - (3σ_high + 3σ_low) / abs(μ_high - μ_low)` | > 0.5 |
 | %CV Low | `(σ_low / μ_low) × 100` | < 10% |
 | %CV High | `(σ_high / μ_high) × 100` | < 10% |
 | Signal Window | `(μ_high - 3σ_high - μ_low - 3σ_low) / σ_low` | > 2 |
