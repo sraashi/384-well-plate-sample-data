@@ -3,7 +3,7 @@
 A fully automated high-throughput screening (HTS) analysis pipeline using 5 simulated 384-well plates.
 The pipeline runs as a sequence of Jupyter notebooks, taking raw plate RFU data through to IC50 calculation.
 
-What I want to accomplish int his project? 
+What I want to accomplish in this project? 
 - Use assay-aware computational analysis to identify promising hits
 - Demonstrate use of automated pipeline to anaysis any set of raw data generated
 
