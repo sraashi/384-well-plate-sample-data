@@ -1,6 +1,5 @@
 Plate,Row,Column,Well,WellType,RFU,Pct_Activity
 Plate 1,A,1,A01,Low,339,0.13
-Plate 1,A,2,A02,Medium,9723,31.49
 Plate 1,A,3,A03,Experimental,20181,66.43
 Plate 1,A,4,A04,Experimental,27184,89.83
 Plate 1,A,5,A05,Experimental,13126,42.86
@@ -24,7 +23,6 @@ Plate 1,A,22,A22,Experimental,13193,43.08
 Plate 1,A,23,A23,Low,305,0.02
 Plate 1,A,24,A24,High,27150,89.72
 Plate 1,B,1,B01,Low,256,-0.15
-Plate 1,B,2,B02,Medium,10221,33.15
 Plate 1,B,3,B03,Experimental,5792,18.35
 Plate 1,B,4,B04,Experimental,18005,59.16
 Plate 1,B,5,B05,Experimental,10194,33.06
@@ -48,7 +46,6 @@ Plate 1,B,22,B22,Experimental,9241,29.88
 Plate 1,B,23,B23,Low,263,-0.12
 Plate 1,B,24,B24,High,32114,106.31
 Plate 1,C,1,C01,Low,327,0.09
-Plate 1,C,2,C02,Medium,6473,20.63
 Plate 1,C,3,C03,Experimental,17592,57.78
 Plate 1,C,4,C04,Experimental,11919,38.83
 Plate 1,C,5,C05,Experimental,9584,31.02
@@ -72,7 +69,6 @@ Plate 1,C,22,C22,Experimental,9839,31.88
 Plate 1,C,23,C23,Low,328,0.09
 Plate 1,C,24,C24,High,33076,109.52
 Plate 1,D,1,D01,Low,297,-0.01
-Plate 1,D,2,D02,Medium,13129,42.87
 Plate 1,D,3,D03,Experimental,200,-0.33
 Plate 1,D,4,D04,Experimental,21575,71.09
 Plate 1,D,5,D05,Experimental,15696,51.45
@@ -96,7 +92,6 @@ Plate 1,D,22,D22,Experimental,12378,40.36
 Plate 1,D,23,D23,Low,268,-0.11
 Plate 1,D,24,D24,High,27072,89.46
 Plate 1,E,1,E01,Low,323,0.08
-Plate 1,E,2,E02,Medium,10522,34.16
 Plate 1,E,3,E03,Experimental,15040,49.25
 Plate 1,E,4,E04,Experimental,13123,42.85
 Plate 1,E,5,E05,Experimental,3677,11.29
@@ -120,7 +115,6 @@ Plate 1,E,22,E22,Experimental,5650,17.88
 Plate 1,E,23,E23,Low,391,0.31
 Plate 1,E,24,E24,High,31503,104.26
 Plate 1,F,1,F01,Low,363,0.21
-Plate 1,F,2,F02,Medium,8181,26.34
 Plate 1,F,3,F03,Experimental,26222,86.62
 Plate 1,F,4,F04,Experimental,3785,11.65
 Plate 1,F,5,F05,Experimental,19694,64.81
@@ -144,7 +138,6 @@ Plate 1,F,22,F22,Experimental,25457,84.06
 Plate 1,F,23,F23,Low,171,-0.43
 Plate 1,F,24,F24,High,30369,100.48
 Plate 1,G,1,G01,Low,320,0.07
-Plate 1,G,2,G02,Medium,11563,37.64
 Plate 1,G,3,G03,Experimental,5104,16.05
 Plate 1,G,4,G04,Experimental,4436,13.82
 Plate 1,G,5,G05,Experimental,19175,63.07
@@ -168,7 +161,6 @@ Plate 1,G,22,G22,Experimental,18302,60.15
 Plate 1,G,23,G23,Low,365,0.22
 Plate 1,G,24,G24,High,33793,111.92
 Plate 1,H,1,H01,Low,280,-0.07
-Plate 1,H,2,H02,Medium,8492,27.37
 Plate 1,H,3,H03,Experimental,7883,25.34
 Plate 1,H,4,H04,Experimental,8473,27.31
 Plate 1,H,5,H05,Experimental,14383,47.06
@@ -213,7 +205,6 @@ Plate 1,I,19,I19,Experimental,19567,64.38
 Plate 1,I,20,I20,Experimental,24084,79.47
 Plate 1,I,21,I21,Experimental,22632,74.62
 Plate 1,I,22,I22,Experimental,20211,66.53
-Plate 1,I,23,I23,Medium,9369,30.3
 Plate 1,I,24,I24,High,31517,104.31
 Plate 1,J,1,J01,Low,238,-0.21
 Plate 1,J,2,J02,High,29526,97.66
@@ -237,7 +228,6 @@ Plate 1,J,19,J19,Experimental,32151,106.43
 Plate 1,J,20,J20,Experimental,20071,66.06
 Plate 1,J,21,J21,Experimental,200,-0.33
 Plate 1,J,22,J22,Experimental,16491,54.1
-Plate 1,J,23,J23,Medium,8676,27.99
 Plate 1,J,24,J24,High,31704,104.94
 Plate 1,K,1,K01,Low,236,-0.21
 Plate 1,K,2,K02,High,29770,98.47
@@ -261,7 +251,6 @@ Plate 1,K,19,K19,Experimental,18550,60.98
 Plate 1,K,20,K20,Experimental,21197,69.83
 Plate 1,K,21,K21,Experimental,7584,24.34
 Plate 1,K,22,K22,Experimental,14523,47.53
-Plate 1,K,23,K23,Medium,4000,12.36
 Plate 1,K,24,K24,High,27951,92.4
 Plate 1,L,1,L01,Low,279,-0.07
 Plate 1,L,2,L02,High,27504,90.9
@@ -285,7 +274,6 @@ Plate 1,L,19,L19,Experimental,27688,91.52
 Plate 1,L,20,L20,Experimental,5097,16.03
 Plate 1,L,21,L21,Experimental,32064,106.14
 Plate 1,L,22,L22,Experimental,200,-0.33
-Plate 1,L,23,L23,Medium,9696,31.4
 Plate 1,L,24,L24,High,31176,103.17
 Plate 1,M,1,M01,Low,322,0.07
 Plate 1,M,2,M02,High,28754,95.08
@@ -309,7 +297,6 @@ Plate 1,M,19,M19,Experimental,25221,83.27
 Plate 1,M,20,M20,Experimental,10267,33.31
 Plate 1,M,21,M21,Experimental,19376,63.74
 Plate 1,M,22,M22,Experimental,13382,43.71
-Plate 1,M,23,M23,Medium,9564,30.96
 Plate 1,M,24,M24,High,32197,106.58
 Plate 1,N,1,N01,Low,366,0.22
 Plate 1,N,2,N02,High,31627,104.68
@@ -333,7 +320,6 @@ Plate 1,N,19,N19,Experimental,14902,48.79
 Plate 1,N,20,N20,Experimental,7821,25.13
 Plate 1,N,21,N21,Experimental,15606,51.15
 Plate 1,N,22,N22,Experimental,9582,31.02
-Plate 1,N,23,N23,Medium,11950,38.93
 Plate 1,N,24,N24,High,29705,98.26
 Plate 1,O,1,O01,Low,233,-0.22
 Plate 1,O,2,O02,High,29357,97.09
@@ -357,7 +343,6 @@ Plate 1,O,19,O19,Experimental,14847,48.61
 Plate 1,O,20,O20,Experimental,6979,22.32
 Plate 1,O,21,O21,Experimental,14851,48.62
 Plate 1,O,22,O22,Experimental,12690,41.4
-Plate 1,O,23,O23,Medium,10645,34.57
 Plate 1,O,24,O24,High,28345,93.71
 Plate 1,P,1,P01,Low,341,0.14
 Plate 1,P,2,P02,High,33065,109.48
@@ -381,10 +366,8 @@ Plate 1,P,19,P19,Experimental,32518,107.66
 Plate 1,P,20,P20,Experimental,8533,27.51
 Plate 1,P,21,P21,Experimental,8282,26.67
 Plate 1,P,22,P22,Experimental,10204,33.09
-Plate 1,P,23,P23,Medium,5752,18.22
 Plate 1,P,24,P24,High,28948,95.73
 Plate 2,A,1,A01,Low,435,0.42
-Plate 2,A,2,A02,Medium,9068,29.73
 Plate 2,A,3,A03,Experimental,15262,50.76
 Plate 2,A,4,A04,Experimental,18260,60.94
 Plate 2,A,5,A05,Experimental,8688,28.44
@@ -408,7 +391,6 @@ Plate 2,A,22,A22,Experimental,16234,54.06
 Plate 2,A,23,A23,Low,269,-0.14
 Plate 2,A,24,A24,High,34058,114.58
 Plate 2,B,1,B01,Low,296,-0.05
-Plate 2,B,2,B02,Medium,7098,23.04
 Plate 2,B,3,B03,Experimental,11758,38.86
 Plate 2,B,4,B04,Experimental,200,-0.38
 Plate 2,B,5,B05,Experimental,23395,78.38
@@ -432,7 +414,6 @@ Plate 2,B,22,B22,Experimental,575,0.89
 Plate 2,B,23,B23,Low,330,0.06
 Plate 2,B,24,B24,High,34495,116.06
 Plate 2,C,1,C01,Low,321,0.03
-Plate 2,C,2,C02,Medium,8950,29.33
 Plate 2,C,3,C03,Experimental,30296,101.81
 Plate 2,C,4,C04,Experimental,16898,56.32
 Plate 2,C,5,C05,Experimental,15811,52.63
@@ -456,7 +437,6 @@ Plate 2,C,22,C22,Experimental,5560,17.82
 Plate 2,C,23,C23,Low,419,0.36
 Plate 2,C,24,C24,High,29434,98.88
 Plate 2,D,1,D01,Low,308,-0.01
-Plate 2,D,2,D02,Medium,12876,42.66
 Plate 2,D,3,D03,Experimental,27026,90.7
 Plate 2,D,4,D04,Experimental,13298,44.09
 Plate 2,D,5,D05,Experimental,17655,58.89
@@ -480,7 +460,6 @@ Plate 2,D,22,D22,Experimental,14394,47.81
 Plate 2,D,23,D23,Low,246,-0.22
 Plate 2,D,24,D24,High,29888,100.42
 Plate 2,E,1,E01,Low,480,0.57
-Plate 2,E,2,E02,Medium,11738,38.8
 Plate 2,E,3,E03,Experimental,12263,40.58
 Plate 2,E,4,E04,Experimental,11224,37.05
 Plate 2,E,5,E05,Experimental,8084,26.39
@@ -504,7 +483,6 @@ Plate 2,E,22,E22,Experimental,11567,38.22
 Plate 2,E,23,E23,Low,248,-0.22
 Plate 2,E,24,E24,High,33495,112.67
 Plate 2,F,1,F01,Low,268,-0.15
-Plate 2,F,2,F02,Medium,8308,27.15
 Plate 2,F,3,F03,Experimental,20096,67.17
 Plate 2,F,4,F04,Experimental,16044,53.42
 Plate 2,F,5,F05,Experimental,14393,47.81
@@ -528,7 +506,6 @@ Plate 2,F,22,F22,Experimental,18969,63.35
 Plate 2,F,23,F23,Low,257,-0.19
 Plate 2,F,24,F24,High,27756,93.18
 Plate 2,G,1,G01,Low,200,-0.38
-Plate 2,G,2,G02,Medium,8970,29.4
 Plate 2,G,3,G03,Experimental,12812,42.44
 Plate 2,G,4,G04,Experimental,8412,27.5
 Plate 2,G,5,G05,Experimental,12751,42.24
@@ -552,7 +529,6 @@ Plate 2,G,22,G22,Experimental,23898,80.08
 Plate 2,G,23,G23,Low,244,-0.23
 Plate 2,G,24,G24,High,31165,104.76
 Plate 2,H,1,H01,Low,214,-0.33
-Plate 2,H,2,H02,Medium,8375,27.38
 Plate 2,H,3,H03,Experimental,8463,27.68
 Plate 2,H,4,H04,Experimental,16538,55.09
 Plate 2,H,5,H05,Experimental,14272,47.4
@@ -597,7 +573,6 @@ Plate 2,I,19,I19,Experimental,5902,18.98
 Plate 2,I,20,I20,Experimental,12465,41.26
 Plate 2,I,21,I21,Experimental,19745,65.98
 Plate 2,I,22,I22,Experimental,12601,41.73
-Plate 2,I,23,I23,Medium,10950,36.12
 Plate 2,I,24,I24,High,28853,96.91
 Plate 2,J,1,J01,Low,252,-0.2
 Plate 2,J,2,J02,High,30078,101.07
@@ -621,7 +596,6 @@ Plate 2,J,19,J19,Experimental,18172,60.64
 Plate 2,J,20,J20,Experimental,24371,81.69
 Plate 2,J,21,J21,Experimental,24162,80.98
 Plate 2,J,22,J22,Experimental,12222,40.44
-Plate 2,J,23,J23,Medium,8949,29.33
 Plate 2,J,24,J24,High,30568,102.73
 Plate 2,K,1,K01,Low,289,-0.08
 Plate 2,K,2,K02,High,26200,87.9
@@ -645,7 +619,6 @@ Plate 2,K,19,K19,Experimental,14847,49.35
 Plate 2,K,20,K20,Experimental,20026,66.94
 Plate 2,K,21,K21,Experimental,24957,83.68
 Plate 2,K,22,K22,Experimental,21511,71.98
-Plate 2,K,23,K23,Medium,6469,20.91
 Plate 2,K,24,K24,High,30754,103.36
 Plate 2,L,1,L01,Low,416,0.35
 Plate 2,L,2,L02,High,30125,101.23
@@ -669,7 +642,6 @@ Plate 2,L,19,L19,Experimental,849,1.82
 Plate 2,L,20,L20,Experimental,13216,43.81
 Plate 2,L,21,L21,Experimental,21085,70.53
 Plate 2,L,22,L22,Experimental,14287,47.45
-Plate 2,L,23,L23,Medium,10943,36.1
 Plate 2,L,24,L24,High,27797,93.32
 Plate 2,M,1,M01,Low,192,-0.41
 Plate 2,M,2,M02,High,31771,106.82
@@ -693,7 +665,6 @@ Plate 2,M,19,M19,Experimental,14436,47.96
 Plate 2,M,20,M20,Experimental,26143,87.71
 Plate 2,M,21,M21,Experimental,5002,15.93
 Plate 2,M,22,M22,Experimental,3019,9.19
-Plate 2,M,23,M23,Medium,8691,28.45
 Plate 2,M,24,M24,High,27606,92.67
 Plate 2,N,1,N01,Low,407,0.32
 Plate 2,N,2,N02,High,30619,102.9
@@ -717,7 +688,6 @@ Plate 2,N,19,N19,Experimental,12917,42.8
 Plate 2,N,20,N20,Experimental,16851,56.16
 Plate 2,N,21,N21,Experimental,9503,31.21
 Plate 2,N,22,N22,Experimental,4213,13.25
-Plate 2,N,23,N23,Medium,10645,35.09
 Plate 2,N,24,N24,High,27121,91.03
 Plate 2,O,1,O01,Low,331,0.07
 Plate 2,O,2,O02,High,27117,91.01
@@ -741,7 +711,6 @@ Plate 2,O,19,O19,Experimental,14335,47.61
 Plate 2,O,20,O20,Experimental,15580,51.84
 Plate 2,O,21,O21,Experimental,200,-0.38
 Plate 2,O,22,O22,Experimental,15590,51.88
-Plate 2,O,23,O23,Medium,9599,31.53
 Plate 2,O,24,O24,High,28428,95.46
 Plate 2,P,1,P01,Low,350,0.13
 Plate 2,P,2,P02,High,32010,107.63
@@ -765,10 +734,8 @@ Plate 2,P,19,P19,Experimental,14864,49.41
 Plate 2,P,20,P20,Experimental,19317,64.53
 Plate 2,P,21,P21,Experimental,22410,75.03
 Plate 2,P,22,P22,Experimental,14607,48.54
-Plate 2,P,23,P23,Medium,9382,30.8
 Plate 2,P,24,P24,High,28105,94.37
 Plate 3,A,1,A01,Low,243,-0.17
-Plate 3,A,2,A02,Medium,11507,37.97
 Plate 3,A,3,A03,Experimental,14643,48.59
 Plate 3,A,4,A04,Experimental,18614,62.04
 Plate 3,A,5,A05,Experimental,25760,86.24
@@ -792,7 +759,6 @@ Plate 3,A,22,A22,Experimental,24525,82.05
 Plate 3,A,23,A23,Low,376,0.28
 Plate 3,A,24,A24,High,27825,93.23
 Plate 3,B,1,B01,Low,288,-0.02
-Plate 3,B,2,B02,Medium,10475,34.48
 Plate 3,B,3,B03,Experimental,1887,5.39
 Plate 3,B,4,B04,Experimental,12774,42.26
 Plate 3,B,5,B05,Experimental,26193,87.7
@@ -816,7 +782,6 @@ Plate 3,B,22,B22,Experimental,14346,47.58
 Plate 3,B,23,B23,Low,221,-0.25
 Plate 3,B,24,B24,High,29995,100.58
 Plate 3,C,1,C01,Low,281,-0.04
-Plate 3,C,2,C02,Medium,11421,37.68
 Plate 3,C,3,C03,Experimental,18625,62.07
 Plate 3,C,4,C04,Experimental,12338,40.78
 Plate 3,C,5,C05,Experimental,11924,39.38
@@ -840,7 +805,6 @@ Plate 3,C,22,C22,Experimental,31429,105.43
 Plate 3,C,23,C23,Low,225,-0.23
 Plate 3,C,24,C24,High,28450,95.34
 Plate 3,D,1,D01,Low,265,-0.1
-Plate 3,D,2,D02,Medium,11095,36.58
 Plate 3,D,3,D03,Experimental,8166,26.66
 Plate 3,D,4,D04,Experimental,18725,62.41
 Plate 3,D,5,D05,Experimental,9232,30.27
@@ -864,7 +828,6 @@ Plate 3,D,22,D22,Experimental,19009,63.37
 Plate 3,D,23,D23,Low,406,0.38
 Plate 3,D,24,D24,High,28684,96.14
 Plate 3,E,1,E01,Low,314,0.07
-Plate 3,E,2,E02,Medium,8697,28.46
 Plate 3,E,3,E03,Experimental,6035,19.44
 Plate 3,E,4,E04,Experimental,12227,40.41
 Plate 3,E,5,E05,Experimental,7709,25.11
@@ -888,7 +851,6 @@ Plate 3,E,22,E22,Experimental,17336,57.71
 Plate 3,E,23,E23,Low,312,0.06
 Plate 3,E,24,E24,High,31634,106.13
 Plate 3,F,1,F01,Low,311,0.06
-Plate 3,F,2,F02,Medium,11810,39.0
 Plate 3,F,3,F03,Experimental,18205,60.65
 Plate 3,F,4,F04,Experimental,8883,29.09
 Plate 3,F,5,F05,Experimental,6863,22.24
@@ -912,7 +874,6 @@ Plate 3,F,22,F22,Experimental,22359,74.72
 Plate 3,F,23,F23,Low,232,-0.21
 Plate 3,F,24,F24,High,28967,97.1
 Plate 3,G,1,G01,Low,123,-0.58
-Plate 3,G,2,G02,Medium,9193,30.13
 Plate 3,G,3,G03,Experimental,20706,69.12
 Plate 3,G,4,G04,Experimental,7426,24.15
 Plate 3,G,5,G05,Experimental,17810,59.31
@@ -936,7 +897,6 @@ Plate 3,G,22,G22,Experimental,23605,78.94
 Plate 3,G,23,G23,Low,239,-0.19
 Plate 3,G,24,G24,High,28978,97.13
 Plate 3,H,1,H01,Low,297,0.01
-Plate 3,H,2,H02,Medium,8081,26.37
 Plate 3,H,3,H03,Experimental,11016,36.31
 Plate 3,H,4,H04,Experimental,22507,75.22
 Plate 3,H,5,H05,Experimental,5215,16.66
@@ -981,7 +941,6 @@ Plate 3,I,19,I19,Experimental,11921,39.37
 Plate 3,I,20,I20,Experimental,2592,7.78
 Plate 3,I,21,I21,Experimental,1233,3.18
 Plate 3,I,22,I22,Experimental,15143,50.28
-Plate 3,I,23,I23,Medium,9069,29.71
 Plate 3,I,24,I24,High,30800,103.3
 Plate 3,J,1,J01,Low,290,-0.01
 Plate 3,J,2,J02,High,32201,108.05
@@ -1005,7 +964,6 @@ Plate 3,J,19,J19,Experimental,10732,35.35
 Plate 3,J,20,J20,Experimental,200,-0.32
 Plate 3,J,21,J21,Experimental,22519,75.26
 Plate 3,J,22,J22,Experimental,22604,75.55
-Plate 3,J,23,J23,Medium,7177,23.31
 Plate 3,J,24,J24,High,32409,108.75
 Plate 3,K,1,K01,Low,285,-0.03
 Plate 3,K,2,K02,High,26953,90.28
@@ -1029,7 +987,6 @@ Plate 3,K,19,K19,Experimental,17140,57.05
 Plate 3,K,20,K20,Experimental,22027,73.59
 Plate 3,K,21,K21,Experimental,12340,40.79
 Plate 3,K,22,K22,Experimental,31737,106.48
-Plate 3,K,23,K23,Medium,10881,35.85
 Plate 3,K,24,K24,High,26375,88.32
 Plate 3,L,1,L01,Low,379,0.29
 Plate 3,L,2,L02,High,29900,100.26
@@ -1053,7 +1010,6 @@ Plate 3,L,19,L19,Experimental,13709,45.43
 Plate 3,L,20,L20,Experimental,18596,61.98
 Plate 3,L,21,L21,Experimental,200,-0.32
 Plate 3,L,22,L22,Experimental,11673,38.53
-Plate 3,L,23,L23,Medium,15184,50.42
 Plate 3,L,24,L24,High,30749,103.13
 Plate 3,M,1,M01,Low,379,0.29
 Plate 3,M,2,M02,High,30678,102.89
@@ -1077,7 +1033,6 @@ Plate 3,M,19,M19,Experimental,10729,35.34
 Plate 3,M,20,M20,Experimental,14430,47.87
 Plate 3,M,21,M21,Experimental,10046,33.02
 Plate 3,M,22,M22,Experimental,24700,82.65
-Plate 3,M,23,M23,Medium,10281,33.82
 Plate 3,M,24,M24,High,30039,100.73
 Plate 3,N,1,N01,Low,354,0.2
 Plate 3,N,2,N02,High,34979,117.45
@@ -1101,7 +1056,6 @@ Plate 3,N,19,N19,Experimental,14754,48.97
 Plate 3,N,20,N20,Experimental,7948,25.92
 Plate 3,N,21,N21,Experimental,17825,59.37
 Plate 3,N,22,N22,Experimental,7869,25.65
-Plate 3,N,23,N23,Medium,11581,38.22
 Plate 3,N,24,N24,High,27216,91.17
 Plate 3,O,1,O01,Low,326,0.11
 Plate 3,O,2,O02,High,32559,109.26
@@ -1125,7 +1079,6 @@ Plate 3,O,19,O19,Experimental,11765,38.84
 Plate 3,O,20,O20,Experimental,27334,91.57
 Plate 3,O,21,O21,Experimental,21401,71.47
 Plate 3,O,22,O22,Experimental,24178,80.88
-Plate 3,O,23,O23,Medium,9675,31.77
 Plate 3,O,24,O24,High,27850,93.31
 Plate 3,P,1,P01,Low,171,-0.42
 Plate 3,P,2,P02,High,29555,99.09
@@ -1149,10 +1102,8 @@ Plate 3,P,19,P19,Experimental,23295,77.89
 Plate 3,P,20,P20,Experimental,4448,14.07
 Plate 3,P,21,P21,Experimental,13446,44.54
 Plate 3,P,22,P22,Experimental,19702,65.72
-Plate 3,P,23,P23,Medium,8586,28.08
 Plate 3,P,24,P24,High,28627,95.94
 Plate 4,A,1,A01,Low,288,-0.0
-Plate 4,A,2,A02,Medium,14114,46.58
 Plate 4,A,3,A03,Experimental,17266,57.2
 Plate 4,A,4,A04,Experimental,25638,85.4
 Plate 4,A,5,A05,Experimental,13763,45.39
@@ -1176,7 +1127,6 @@ Plate 4,A,22,A22,Experimental,17094,56.62
 Plate 4,A,23,A23,Low,231,-0.2
 Plate 4,A,24,A24,High,29624,98.83
 Plate 4,B,1,B01,Low,270,-0.06
-Plate 4,B,2,B02,Medium,9076,29.6
 Plate 4,B,3,B03,Experimental,8468,27.56
 Plate 4,B,4,B04,Experimental,14639,48.35
 Plate 4,B,5,B05,Experimental,15970,52.83
@@ -1200,7 +1150,6 @@ Plate 4,B,22,B22,Experimental,19421,64.46
 Plate 4,B,23,B23,Low,234,-0.19
 Plate 4,B,24,B24,High,29006,96.75
 Plate 4,C,1,C01,Low,386,0.33
-Plate 4,C,2,C02,Medium,8050,26.15
 Plate 4,C,3,C03,Experimental,12742,41.95
 Plate 4,C,4,C04,Experimental,14062,46.4
 Plate 4,C,5,C05,Experimental,18028,59.76
@@ -1224,7 +1173,6 @@ Plate 4,C,22,C22,Experimental,10111,33.09
 Plate 4,C,23,C23,Low,261,-0.09
 Plate 4,C,24,C24,High,28782,95.99
 Plate 4,D,1,D01,Low,132,-0.53
-Plate 4,D,2,D02,Medium,11278,37.02
 Plate 4,D,3,D03,Experimental,21194,70.43
 Plate 4,D,4,D04,Experimental,25228,84.02
 Plate 4,D,5,D05,Experimental,20642,68.57
@@ -1248,7 +1196,6 @@ Plate 4,D,22,D22,Experimental,12106,39.81
 Plate 4,D,23,D23,Low,334,0.15
 Plate 4,D,24,D24,High,31867,106.39
 Plate 4,E,1,E01,Low,424,0.45
-Plate 4,E,2,E02,Medium,10187,33.35
 Plate 4,E,3,E03,Experimental,17358,57.51
 Plate 4,E,4,E04,Experimental,26883,89.6
 Plate 4,E,5,E05,Experimental,6304,20.26
@@ -1272,7 +1219,6 @@ Plate 4,E,22,E22,Experimental,19439,64.52
 Plate 4,E,23,E23,Low,289,-0.0
 Plate 4,E,24,E24,High,31335,104.6
 Plate 4,F,1,F01,Low,393,0.35
-Plate 4,F,2,F02,Medium,7966,25.86
 Plate 4,F,3,F03,Experimental,26765,89.2
 Plate 4,F,4,F04,Experimental,23130,76.95
 Plate 4,F,5,F05,Experimental,23048,76.68
@@ -1296,7 +1242,6 @@ Plate 4,F,22,F22,Experimental,13730,45.28
 Plate 4,F,23,F23,Low,267,-0.07
 Plate 4,F,24,F24,High,27510,91.71
 Plate 4,G,1,G01,Low,326,0.12
-Plate 4,G,2,G02,Medium,7854,25.49
 Plate 4,G,3,G03,Experimental,13298,43.83
 Plate 4,G,4,G04,Experimental,24284,80.84
 Plate 4,G,5,G05,Experimental,24955,83.1
@@ -1320,7 +1265,6 @@ Plate 4,G,22,G22,Experimental,7612,24.67
 Plate 4,G,23,G23,Low,292,0.01
 Plate 4,G,24,G24,High,31155,103.99
 Plate 4,H,1,H01,Low,381,0.31
-Plate 4,H,2,H02,Medium,9543,31.18
 Plate 4,H,3,H03,Experimental,13477,44.43
 Plate 4,H,4,H04,Experimental,8590,27.97
 Plate 4,H,5,H05,Experimental,12951,42.66
@@ -1365,7 +1309,6 @@ Plate 4,I,19,I19,Experimental,13510,44.54
 Plate 4,I,20,I20,Experimental,4516,14.24
 Plate 4,I,21,I21,Experimental,14025,46.28
 Plate 4,I,22,I22,Experimental,10129,33.15
-Plate 4,I,23,I23,Medium,12887,42.44
 Plate 4,I,24,I24,High,30724,102.54
 Plate 4,J,1,J01,Low,401,0.38
 Plate 4,J,2,J02,High,30222,100.85
@@ -1389,7 +1332,6 @@ Plate 4,J,19,J19,Experimental,21014,69.82
 Plate 4,J,20,J20,Experimental,11673,38.35
 Plate 4,J,21,J21,Experimental,2691,8.09
 Plate 4,J,22,J22,Experimental,11612,38.15
-Plate 4,J,23,J23,Medium,9772,31.95
 Plate 4,J,24,J24,High,30959,103.33
 Plate 4,K,1,K01,Low,236,-0.18
 Plate 4,K,2,K02,High,31039,103.6
@@ -1413,7 +1355,6 @@ Plate 4,K,19,K19,Experimental,19489,64.69
 Plate 4,K,20,K20,Experimental,14252,47.04
 Plate 4,K,21,K21,Experimental,11163,36.63
 Plate 4,K,22,K22,Experimental,24828,82.67
-Plate 4,K,23,K23,Medium,8677,28.26
 Plate 4,K,24,K24,High,33486,111.84
 Plate 4,L,1,L01,Low,242,-0.16
 Plate 4,L,2,L02,High,31880,106.43
@@ -1437,7 +1378,6 @@ Plate 4,L,19,L19,Experimental,20853,69.28
 Plate 4,L,20,L20,Experimental,7683,24.91
 Plate 4,L,21,L21,Experimental,20723,68.84
 Plate 4,L,22,L22,Experimental,200,-0.3
-Plate 4,L,23,L23,Medium,9905,32.4
 Plate 4,L,24,L24,High,31235,104.26
 Plate 4,M,1,M01,Low,153,-0.46
 Plate 4,M,2,M02,High,31163,104.02
@@ -1461,7 +1401,6 @@ Plate 4,M,19,M19,Experimental,16469,54.51
 Plate 4,M,20,M20,Experimental,8358,27.18
 Plate 4,M,21,M21,Experimental,8810,28.71
 Plate 4,M,22,M22,Experimental,17134,56.75
-Plate 4,M,23,M23,Medium,11427,37.52
 Plate 4,M,24,M24,High,28259,94.23
 Plate 4,N,1,N01,Low,246,-0.15
 Plate 4,N,2,N02,High,28829,96.15
@@ -1485,7 +1424,6 @@ Plate 4,N,19,N19,Experimental,28050,93.53
 Plate 4,N,20,N20,Experimental,7339,23.75
 Plate 4,N,21,N21,Experimental,19243,63.86
 Plate 4,N,22,N22,Experimental,3910,12.2
-Plate 4,N,23,N23,Medium,13161,43.37
 Plate 4,N,24,N24,High,28733,95.83
 Plate 4,O,1,O01,Low,369,0.27
 Plate 4,O,2,O02,High,30443,101.59
@@ -1509,7 +1447,6 @@ Plate 4,O,19,O19,Experimental,14854,49.07
 Plate 4,O,20,O20,Experimental,19872,65.98
 Plate 4,O,21,O21,Experimental,19500,64.72
 Plate 4,O,22,O22,Experimental,19233,63.82
-Plate 4,O,23,O23,Medium,8247,26.81
 Plate 4,O,24,O24,High,26766,89.2
 Plate 4,P,1,P01,Low,328,0.13
 Plate 4,P,2,P02,High,28593,95.36
@@ -1533,10 +1470,8 @@ Plate 4,P,19,P19,Experimental,6995,22.59
 Plate 4,P,20,P20,Experimental,9852,32.22
 Plate 4,P,21,P21,Experimental,30698,102.45
 Plate 4,P,22,P22,Experimental,30840,102.93
-Plate 4,P,23,P23,Medium,10857,35.6
 Plate 4,P,24,P24,High,31241,104.28
 Plate 5,A,1,A01,Low,170,-0.41
-Plate 5,A,2,A02,Medium,9796,32.58
 Plate 5,A,3,A03,Experimental,521,0.8
 Plate 5,A,4,A04,Experimental,17101,57.62
 Plate 5,A,5,A05,Experimental,17079,57.54
@@ -1560,7 +1495,6 @@ Plate 5,A,22,A22,Experimental,7052,23.18
 Plate 5,A,23,A23,Low,286,-0.01
 Plate 5,A,24,A24,High,30575,103.79
 Plate 5,B,1,B01,Low,323,0.12
-Plate 5,B,2,B02,Medium,9624,31.99
 Plate 5,B,3,B03,Experimental,12055,40.32
 Plate 5,B,4,B04,Experimental,26606,90.19
 Plate 5,B,5,B05,Experimental,16753,56.42
@@ -1584,7 +1518,6 @@ Plate 5,B,22,B22,Experimental,9488,31.53
 Plate 5,B,23,B23,Low,311,0.08
 Plate 5,B,24,B24,High,32528,110.48
 Plate 5,C,1,C01,Low,202,-0.3
-Plate 5,C,2,C02,Medium,8956,29.7
 Plate 5,C,3,C03,Experimental,10459,34.85
 Plate 5,C,4,C04,Experimental,6962,22.87
 Plate 5,C,5,C05,Experimental,16577,55.82
@@ -1608,7 +1541,6 @@ Plate 5,C,22,C22,Experimental,15475,52.04
 Plate 5,C,23,C23,Low,369,0.27
 Plate 5,C,24,C24,High,27093,91.86
 Plate 5,D,1,D01,Low,342,0.18
-Plate 5,D,2,D02,Medium,9549,31.73
 Plate 5,D,3,D03,Experimental,24046,81.42
 Plate 5,D,4,D04,Experimental,14117,47.39
 Plate 5,D,5,D05,Experimental,10386,34.6
@@ -1632,7 +1564,6 @@ Plate 5,D,22,D22,Experimental,7377,24.29
 Plate 5,D,23,D23,Low,253,-0.12
 Plate 5,D,24,D24,High,30011,101.86
 Plate 5,E,1,E01,Low,111,-0.61
-Plate 5,E,2,E02,Medium,10386,34.6
 Plate 5,E,3,E03,Experimental,21691,73.35
 Plate 5,E,4,E04,Experimental,22640,76.6
 Plate 5,E,5,E05,Experimental,16407,55.24
@@ -1656,7 +1587,6 @@ Plate 5,E,22,E22,Experimental,23533,79.66
 Plate 5,E,23,E23,Low,372,0.28
 Plate 5,E,24,E24,High,26358,89.34
 Plate 5,F,1,F01,Low,451,0.56
-Plate 5,F,2,F02,Medium,9277,30.8
 Plate 5,F,3,F03,Experimental,38000,129.24
 Plate 5,F,4,F04,Experimental,29438,99.89
 Plate 5,F,5,F05,Experimental,8946,29.67
@@ -1680,7 +1610,6 @@ Plate 5,F,22,F22,Experimental,21173,71.57
 Plate 5,F,23,F23,Low,250,-0.13
 Plate 5,F,24,F24,High,28760,97.57
 Plate 5,G,1,G01,Low,228,-0.21
-Plate 5,G,2,G02,Medium,10340,34.45
 Plate 5,G,3,G03,Experimental,7677,25.32
 Plate 5,G,4,G04,Experimental,19343,65.3
 Plate 5,G,5,G05,Experimental,16107,54.21
@@ -1704,7 +1633,6 @@ Plate 5,G,22,G22,Experimental,18514,62.46
 Plate 5,G,23,G23,Low,283,-0.02
 Plate 5,G,24,G24,High,29315,99.47
 Plate 5,H,1,H01,Low,225,-0.22
-Plate 5,H,2,H02,Medium,4000,12.72
 Plate 5,H,3,H03,Experimental,2084,6.15
 Plate 5,H,4,H04,Experimental,13880,46.58
 Plate 5,H,5,H05,Experimental,4268,13.64
@@ -1749,7 +1677,6 @@ Plate 5,I,19,I19,Experimental,13829,46.4
 Plate 5,I,20,I20,Experimental,27353,92.75
 Plate 5,I,21,I21,Experimental,15146,50.92
 Plate 5,I,22,I22,Experimental,11914,39.84
-Plate 5,I,23,I23,Medium,8369,27.69
 Plate 5,I,24,I24,High,25852,87.61
 Plate 5,J,1,J01,Low,273,-0.05
 Plate 5,J,2,J02,High,29547,100.27
@@ -1773,7 +1700,6 @@ Plate 5,J,19,J19,Experimental,18762,63.31
 Plate 5,J,20,J20,Experimental,20015,67.6
 Plate 5,J,21,J21,Experimental,7147,23.5
 Plate 5,J,22,J22,Experimental,24943,84.49
-Plate 5,J,23,J23,Medium,10068,33.51
 Plate 5,J,24,J24,High,30801,104.57
 Plate 5,K,1,K01,Low,365,0.26
 Plate 5,K,2,K02,High,29932,101.59
@@ -1797,7 +1723,6 @@ Plate 5,K,19,K19,Experimental,38000,129.24
 Plate 5,K,20,K20,Experimental,6871,22.56
 Plate 5,K,21,K21,Experimental,19137,64.59
 Plate 5,K,22,K22,Experimental,2020,5.93
-Plate 5,K,23,K23,Medium,11115,37.1
 Plate 5,K,24,K24,High,27068,91.77
 Plate 5,L,1,L01,Low,301,0.04
 Plate 5,L,2,L02,High,30131,102.27
@@ -1821,7 +1746,6 @@ Plate 5,L,19,L19,Experimental,13262,44.46
 Plate 5,L,20,L20,Experimental,15662,52.68
 Plate 5,L,21,L21,Experimental,9855,32.78
 Plate 5,L,22,L22,Experimental,21340,72.14
-Plate 5,L,23,L23,Medium,11316,37.79
 Plate 5,L,24,L24,High,30633,103.99
 Plate 5,M,1,M01,Low,289,0.0
 Plate 5,M,2,M02,High,29344,99.57
@@ -1845,7 +1769,6 @@ Plate 5,M,19,M19,Experimental,17558,59.18
 Plate 5,M,20,M20,Experimental,14699,49.38
 Plate 5,M,21,M21,Experimental,26710,90.55
 Plate 5,M,22,M22,Experimental,15191,51.07
-Plate 5,M,23,M23,Medium,11061,36.92
 Plate 5,M,24,M24,High,29139,98.87
 Plate 5,N,1,N01,Low,210,-0.27
 Plate 5,N,2,N02,High,28953,98.23
@@ -1869,7 +1792,6 @@ Plate 5,N,19,N19,Experimental,14272,47.92
 Plate 5,N,20,N20,Experimental,6963,22.87
 Plate 5,N,21,N21,Experimental,20661,69.82
 Plate 5,N,22,N22,Experimental,16926,57.02
-Plate 5,N,23,N23,Medium,11083,36.99
 Plate 5,N,24,N24,High,26811,90.89
 Plate 5,O,1,O01,Low,199,-0.31
 Plate 5,O,2,O02,High,32268,109.59
@@ -1893,7 +1815,6 @@ Plate 5,O,19,O19,Experimental,7383,24.31
 Plate 5,O,20,O20,Experimental,8239,27.24
 Plate 5,O,21,O21,Experimental,25364,85.93
 Plate 5,O,22,O22,Experimental,7927,26.18
-Plate 5,O,23,O23,Medium,7681,25.33
 Plate 5,O,24,O24,High,32367,109.93
 Plate 5,P,1,P01,Low,366,0.26
 Plate 5,P,2,P02,High,28440,96.47
@@ -1917,5 +1838,4 @@ Plate 5,P,19,P19,Experimental,28810,97.74
 Plate 5,P,20,P20,Experimental,12825,42.96
 Plate 5,P,21,P21,Experimental,14203,47.68
 Plate 5,P,22,P22,Experimental,4861,15.67
-Plate 5,P,23,P23,Medium,11851,39.62
 Plate 5,P,24,P24,High,33732,114.61

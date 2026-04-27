@@ -1,6 +1,5 @@
 Plate,PlateFile,Row,Column,Well,WellType,RFU
 Plate 1,sample_384_plate.csv,A,1,A01,Low,339
-Plate 1,sample_384_plate.csv,A,2,A02,Medium,9723
 Plate 1,sample_384_plate.csv,A,3,A03,Experimental,20181
 Plate 1,sample_384_plate.csv,A,4,A04,Experimental,27184
 Plate 1,sample_384_plate.csv,A,5,A05,Experimental,13126
@@ -24,7 +23,6 @@ Plate 1,sample_384_plate.csv,A,22,A22,Experimental,13193
 Plate 1,sample_384_plate.csv,A,23,A23,Low,305
 Plate 1,sample_384_plate.csv,A,24,A24,High,27150
 Plate 1,sample_384_plate.csv,B,1,B01,Low,256
-Plate 1,sample_384_plate.csv,B,2,B02,Medium,10221
 Plate 1,sample_384_plate.csv,B,3,B03,Experimental,5792
 Plate 1,sample_384_plate.csv,B,4,B04,Experimental,18005
 Plate 1,sample_384_plate.csv,B,5,B05,Experimental,10194
@@ -48,7 +46,6 @@ Plate 1,sample_384_plate.csv,B,22,B22,Experimental,9241
 Plate 1,sample_384_plate.csv,B,23,B23,Low,263
 Plate 1,sample_384_plate.csv,B,24,B24,High,32114
 Plate 1,sample_384_plate.csv,C,1,C01,Low,327
-Plate 1,sample_384_plate.csv,C,2,C02,Medium,6473
 Plate 1,sample_384_plate.csv,C,3,C03,Experimental,17592
 Plate 1,sample_384_plate.csv,C,4,C04,Experimental,11919
 Plate 1,sample_384_plate.csv,C,5,C05,Experimental,9584
@@ -72,7 +69,6 @@ Plate 1,sample_384_plate.csv,C,22,C22,Experimental,9839
 Plate 1,sample_384_plate.csv,C,23,C23,Low,328
 Plate 1,sample_384_plate.csv,C,24,C24,High,33076
 Plate 1,sample_384_plate.csv,D,1,D01,Low,297
-Plate 1,sample_384_plate.csv,D,2,D02,Medium,13129
 Plate 1,sample_384_plate.csv,D,3,D03,Experimental,200
 Plate 1,sample_384_plate.csv,D,4,D04,Experimental,21575
 Plate 1,sample_384_plate.csv,D,5,D05,Experimental,15696
@@ -96,7 +92,6 @@ Plate 1,sample_384_plate.csv,D,22,D22,Experimental,12378
 Plate 1,sample_384_plate.csv,D,23,D23,Low,268
 Plate 1,sample_384_plate.csv,D,24,D24,High,27072
 Plate 1,sample_384_plate.csv,E,1,E01,Low,323
-Plate 1,sample_384_plate.csv,E,2,E02,Medium,10522
 Plate 1,sample_384_plate.csv,E,3,E03,Experimental,15040
 Plate 1,sample_384_plate.csv,E,4,E04,Experimental,13123
 Plate 1,sample_384_plate.csv,E,5,E05,Experimental,3677
@@ -120,7 +115,6 @@ Plate 1,sample_384_plate.csv,E,22,E22,Experimental,5650
 Plate 1,sample_384_plate.csv,E,23,E23,Low,391
 Plate 1,sample_384_plate.csv,E,24,E24,High,31503
 Plate 1,sample_384_plate.csv,F,1,F01,Low,363
-Plate 1,sample_384_plate.csv,F,2,F02,Medium,8181
 Plate 1,sample_384_plate.csv,F,3,F03,Experimental,26222
 Plate 1,sample_384_plate.csv,F,4,F04,Experimental,3785
 Plate 1,sample_384_plate.csv,F,5,F05,Experimental,19694
@@ -144,7 +138,6 @@ Plate 1,sample_384_plate.csv,F,22,F22,Experimental,25457
 Plate 1,sample_384_plate.csv,F,23,F23,Low,171
 Plate 1,sample_384_plate.csv,F,24,F24,High,30369
 Plate 1,sample_384_plate.csv,G,1,G01,Low,320
-Plate 1,sample_384_plate.csv,G,2,G02,Medium,11563
 Plate 1,sample_384_plate.csv,G,3,G03,Experimental,5104
 Plate 1,sample_384_plate.csv,G,4,G04,Experimental,4436
 Plate 1,sample_384_plate.csv,G,5,G05,Experimental,19175
@@ -168,7 +161,6 @@ Plate 1,sample_384_plate.csv,G,22,G22,Experimental,18302
 Plate 1,sample_384_plate.csv,G,23,G23,Low,365
 Plate 1,sample_384_plate.csv,G,24,G24,High,33793
 Plate 1,sample_384_plate.csv,H,1,H01,Low,280
-Plate 1,sample_384_plate.csv,H,2,H02,Medium,8492
 Plate 1,sample_384_plate.csv,H,3,H03,Experimental,7883
 Plate 1,sample_384_plate.csv,H,4,H04,Experimental,8473
 Plate 1,sample_384_plate.csv,H,5,H05,Experimental,14383
@@ -213,7 +205,6 @@ Plate 1,sample_384_plate.csv,I,19,I19,Experimental,19567
 Plate 1,sample_384_plate.csv,I,20,I20,Experimental,24084
 Plate 1,sample_384_plate.csv,I,21,I21,Experimental,22632
 Plate 1,sample_384_plate.csv,I,22,I22,Experimental,20211
-Plate 1,sample_384_plate.csv,I,23,I23,Medium,9369
 Plate 1,sample_384_plate.csv,I,24,I24,High,31517
 Plate 1,sample_384_plate.csv,J,1,J01,Low,238
 Plate 1,sample_384_plate.csv,J,2,J02,High,29526
@@ -237,7 +228,6 @@ Plate 1,sample_384_plate.csv,J,19,J19,Experimental,32151
 Plate 1,sample_384_plate.csv,J,20,J20,Experimental,20071
 Plate 1,sample_384_plate.csv,J,21,J21,Experimental,200
 Plate 1,sample_384_plate.csv,J,22,J22,Experimental,16491
-Plate 1,sample_384_plate.csv,J,23,J23,Medium,8676
 Plate 1,sample_384_plate.csv,J,24,J24,High,31704
 Plate 1,sample_384_plate.csv,K,1,K01,Low,236
 Plate 1,sample_384_plate.csv,K,2,K02,High,29770
@@ -261,7 +251,6 @@ Plate 1,sample_384_plate.csv,K,19,K19,Experimental,18550
 Plate 1,sample_384_plate.csv,K,20,K20,Experimental,21197
 Plate 1,sample_384_plate.csv,K,21,K21,Experimental,7584
 Plate 1,sample_384_plate.csv,K,22,K22,Experimental,14523
-Plate 1,sample_384_plate.csv,K,23,K23,Medium,4000
 Plate 1,sample_384_plate.csv,K,24,K24,High,27951
 Plate 1,sample_384_plate.csv,L,1,L01,Low,279
 Plate 1,sample_384_plate.csv,L,2,L02,High,27504
@@ -285,7 +274,6 @@ Plate 1,sample_384_plate.csv,L,19,L19,Experimental,27688
 Plate 1,sample_384_plate.csv,L,20,L20,Experimental,5097
 Plate 1,sample_384_plate.csv,L,21,L21,Experimental,32064
 Plate 1,sample_384_plate.csv,L,22,L22,Experimental,200
-Plate 1,sample_384_plate.csv,L,23,L23,Medium,9696
 Plate 1,sample_384_plate.csv,L,24,L24,High,31176
 Plate 1,sample_384_plate.csv,M,1,M01,Low,322
 Plate 1,sample_384_plate.csv,M,2,M02,High,28754
@@ -309,7 +297,6 @@ Plate 1,sample_384_plate.csv,M,19,M19,Experimental,25221
 Plate 1,sample_384_plate.csv,M,20,M20,Experimental,10267
 Plate 1,sample_384_plate.csv,M,21,M21,Experimental,19376
 Plate 1,sample_384_plate.csv,M,22,M22,Experimental,13382
-Plate 1,sample_384_plate.csv,M,23,M23,Medium,9564
 Plate 1,sample_384_plate.csv,M,24,M24,High,32197
 Plate 1,sample_384_plate.csv,N,1,N01,Low,366
 Plate 1,sample_384_plate.csv,N,2,N02,High,31627
@@ -333,7 +320,6 @@ Plate 1,sample_384_plate.csv,N,19,N19,Experimental,14902
 Plate 1,sample_384_plate.csv,N,20,N20,Experimental,7821
 Plate 1,sample_384_plate.csv,N,21,N21,Experimental,15606
 Plate 1,sample_384_plate.csv,N,22,N22,Experimental,9582
-Plate 1,sample_384_plate.csv,N,23,N23,Medium,11950
 Plate 1,sample_384_plate.csv,N,24,N24,High,29705
 Plate 1,sample_384_plate.csv,O,1,O01,Low,233
 Plate 1,sample_384_plate.csv,O,2,O02,High,29357
@@ -357,7 +343,6 @@ Plate 1,sample_384_plate.csv,O,19,O19,Experimental,14847
 Plate 1,sample_384_plate.csv,O,20,O20,Experimental,6979
 Plate 1,sample_384_plate.csv,O,21,O21,Experimental,14851
 Plate 1,sample_384_plate.csv,O,22,O22,Experimental,12690
-Plate 1,sample_384_plate.csv,O,23,O23,Medium,10645
 Plate 1,sample_384_plate.csv,O,24,O24,High,28345
 Plate 1,sample_384_plate.csv,P,1,P01,Low,341
 Plate 1,sample_384_plate.csv,P,2,P02,High,33065
@@ -381,10 +366,8 @@ Plate 1,sample_384_plate.csv,P,19,P19,Experimental,32518
 Plate 1,sample_384_plate.csv,P,20,P20,Experimental,8533
 Plate 1,sample_384_plate.csv,P,21,P21,Experimental,8282
 Plate 1,sample_384_plate.csv,P,22,P22,Experimental,10204
-Plate 1,sample_384_plate.csv,P,23,P23,Medium,5752
 Plate 1,sample_384_plate.csv,P,24,P24,High,28948
 Plate 2,sample_384_plate2.csv,A,1,A01,Low,435
-Plate 2,sample_384_plate2.csv,A,2,A02,Medium,9068
 Plate 2,sample_384_plate2.csv,A,3,A03,Experimental,15262
 Plate 2,sample_384_plate2.csv,A,4,A04,Experimental,18260
 Plate 2,sample_384_plate2.csv,A,5,A05,Experimental,8688
@@ -408,7 +391,6 @@ Plate 2,sample_384_plate2.csv,A,22,A22,Experimental,16234
 Plate 2,sample_384_plate2.csv,A,23,A23,Low,269
 Plate 2,sample_384_plate2.csv,A,24,A24,High,34058
 Plate 2,sample_384_plate2.csv,B,1,B01,Low,296
-Plate 2,sample_384_plate2.csv,B,2,B02,Medium,7098
 Plate 2,sample_384_plate2.csv,B,3,B03,Experimental,11758
 Plate 2,sample_384_plate2.csv,B,4,B04,Experimental,200
 Plate 2,sample_384_plate2.csv,B,5,B05,Experimental,23395
@@ -432,7 +414,6 @@ Plate 2,sample_384_plate2.csv,B,22,B22,Experimental,575
 Plate 2,sample_384_plate2.csv,B,23,B23,Low,330
 Plate 2,sample_384_plate2.csv,B,24,B24,High,34495
 Plate 2,sample_384_plate2.csv,C,1,C01,Low,321
-Plate 2,sample_384_plate2.csv,C,2,C02,Medium,8950
 Plate 2,sample_384_plate2.csv,C,3,C03,Experimental,30296
 Plate 2,sample_384_plate2.csv,C,4,C04,Experimental,16898
 Plate 2,sample_384_plate2.csv,C,5,C05,Experimental,15811
@@ -456,7 +437,6 @@ Plate 2,sample_384_plate2.csv,C,22,C22,Experimental,5560
 Plate 2,sample_384_plate2.csv,C,23,C23,Low,419
 Plate 2,sample_384_plate2.csv,C,24,C24,High,29434
 Plate 2,sample_384_plate2.csv,D,1,D01,Low,308
-Plate 2,sample_384_plate2.csv,D,2,D02,Medium,12876
 Plate 2,sample_384_plate2.csv,D,3,D03,Experimental,27026
 Plate 2,sample_384_plate2.csv,D,4,D04,Experimental,13298
 Plate 2,sample_384_plate2.csv,D,5,D05,Experimental,17655
@@ -480,7 +460,6 @@ Plate 2,sample_384_plate2.csv,D,22,D22,Experimental,14394
 Plate 2,sample_384_plate2.csv,D,23,D23,Low,246
 Plate 2,sample_384_plate2.csv,D,24,D24,High,29888
 Plate 2,sample_384_plate2.csv,E,1,E01,Low,480
-Plate 2,sample_384_plate2.csv,E,2,E02,Medium,11738
 Plate 2,sample_384_plate2.csv,E,3,E03,Experimental,12263
 Plate 2,sample_384_plate2.csv,E,4,E04,Experimental,11224
 Plate 2,sample_384_plate2.csv,E,5,E05,Experimental,8084
@@ -504,7 +483,6 @@ Plate 2,sample_384_plate2.csv,E,22,E22,Experimental,11567
 Plate 2,sample_384_plate2.csv,E,23,E23,Low,248
 Plate 2,sample_384_plate2.csv,E,24,E24,High,33495
 Plate 2,sample_384_plate2.csv,F,1,F01,Low,268
-Plate 2,sample_384_plate2.csv,F,2,F02,Medium,8308
 Plate 2,sample_384_plate2.csv,F,3,F03,Experimental,20096
 Plate 2,sample_384_plate2.csv,F,4,F04,Experimental,16044
 Plate 2,sample_384_plate2.csv,F,5,F05,Experimental,14393
@@ -528,7 +506,6 @@ Plate 2,sample_384_plate2.csv,F,22,F22,Experimental,18969
 Plate 2,sample_384_plate2.csv,F,23,F23,Low,257
 Plate 2,sample_384_plate2.csv,F,24,F24,High,27756
 Plate 2,sample_384_plate2.csv,G,1,G01,Low,200
-Plate 2,sample_384_plate2.csv,G,2,G02,Medium,8970
 Plate 2,sample_384_plate2.csv,G,3,G03,Experimental,12812
 Plate 2,sample_384_plate2.csv,G,4,G04,Experimental,8412
 Plate 2,sample_384_plate2.csv,G,5,G05,Experimental,12751
@@ -552,7 +529,6 @@ Plate 2,sample_384_plate2.csv,G,22,G22,Experimental,23898
 Plate 2,sample_384_plate2.csv,G,23,G23,Low,244
 Plate 2,sample_384_plate2.csv,G,24,G24,High,31165
 Plate 2,sample_384_plate2.csv,H,1,H01,Low,214
-Plate 2,sample_384_plate2.csv,H,2,H02,Medium,8375
 Plate 2,sample_384_plate2.csv,H,3,H03,Experimental,8463
 Plate 2,sample_384_plate2.csv,H,4,H04,Experimental,16538
 Plate 2,sample_384_plate2.csv,H,5,H05,Experimental,14272
@@ -597,7 +573,6 @@ Plate 2,sample_384_plate2.csv,I,19,I19,Experimental,5902
 Plate 2,sample_384_plate2.csv,I,20,I20,Experimental,12465
 Plate 2,sample_384_plate2.csv,I,21,I21,Experimental,19745
 Plate 2,sample_384_plate2.csv,I,22,I22,Experimental,12601
-Plate 2,sample_384_plate2.csv,I,23,I23,Medium,10950
 Plate 2,sample_384_plate2.csv,I,24,I24,High,28853
 Plate 2,sample_384_plate2.csv,J,1,J01,Low,252
 Plate 2,sample_384_plate2.csv,J,2,J02,High,30078
@@ -621,7 +596,6 @@ Plate 2,sample_384_plate2.csv,J,19,J19,Experimental,18172
 Plate 2,sample_384_plate2.csv,J,20,J20,Experimental,24371
 Plate 2,sample_384_plate2.csv,J,21,J21,Experimental,24162
 Plate 2,sample_384_plate2.csv,J,22,J22,Experimental,12222
-Plate 2,sample_384_plate2.csv,J,23,J23,Medium,8949
 Plate 2,sample_384_plate2.csv,J,24,J24,High,30568
 Plate 2,sample_384_plate2.csv,K,1,K01,Low,289
 Plate 2,sample_384_plate2.csv,K,2,K02,High,26200
@@ -645,7 +619,6 @@ Plate 2,sample_384_plate2.csv,K,19,K19,Experimental,14847
 Plate 2,sample_384_plate2.csv,K,20,K20,Experimental,20026
 Plate 2,sample_384_plate2.csv,K,21,K21,Experimental,24957
 Plate 2,sample_384_plate2.csv,K,22,K22,Experimental,21511
-Plate 2,sample_384_plate2.csv,K,23,K23,Medium,6469
 Plate 2,sample_384_plate2.csv,K,24,K24,High,30754
 Plate 2,sample_384_plate2.csv,L,1,L01,Low,416
 Plate 2,sample_384_plate2.csv,L,2,L02,High,30125
@@ -669,7 +642,6 @@ Plate 2,sample_384_plate2.csv,L,19,L19,Experimental,849
 Plate 2,sample_384_plate2.csv,L,20,L20,Experimental,13216
 Plate 2,sample_384_plate2.csv,L,21,L21,Experimental,21085
 Plate 2,sample_384_plate2.csv,L,22,L22,Experimental,14287
-Plate 2,sample_384_plate2.csv,L,23,L23,Medium,10943
 Plate 2,sample_384_plate2.csv,L,24,L24,High,27797
 Plate 2,sample_384_plate2.csv,M,1,M01,Low,192
 Plate 2,sample_384_plate2.csv,M,2,M02,High,31771
@@ -693,7 +665,6 @@ Plate 2,sample_384_plate2.csv,M,19,M19,Experimental,14436
 Plate 2,sample_384_plate2.csv,M,20,M20,Experimental,26143
 Plate 2,sample_384_plate2.csv,M,21,M21,Experimental,5002
 Plate 2,sample_384_plate2.csv,M,22,M22,Experimental,3019
-Plate 2,sample_384_plate2.csv,M,23,M23,Medium,8691
 Plate 2,sample_384_plate2.csv,M,24,M24,High,27606
 Plate 2,sample_384_plate2.csv,N,1,N01,Low,407
 Plate 2,sample_384_plate2.csv,N,2,N02,High,30619
@@ -717,7 +688,6 @@ Plate 2,sample_384_plate2.csv,N,19,N19,Experimental,12917
 Plate 2,sample_384_plate2.csv,N,20,N20,Experimental,16851
 Plate 2,sample_384_plate2.csv,N,21,N21,Experimental,9503
 Plate 2,sample_384_plate2.csv,N,22,N22,Experimental,4213
-Plate 2,sample_384_plate2.csv,N,23,N23,Medium,10645
 Plate 2,sample_384_plate2.csv,N,24,N24,High,27121
 Plate 2,sample_384_plate2.csv,O,1,O01,Low,331
 Plate 2,sample_384_plate2.csv,O,2,O02,High,27117
@@ -741,7 +711,6 @@ Plate 2,sample_384_plate2.csv,O,19,O19,Experimental,14335
 Plate 2,sample_384_plate2.csv,O,20,O20,Experimental,15580
 Plate 2,sample_384_plate2.csv,O,21,O21,Experimental,200
 Plate 2,sample_384_plate2.csv,O,22,O22,Experimental,15590
-Plate 2,sample_384_plate2.csv,O,23,O23,Medium,9599
 Plate 2,sample_384_plate2.csv,O,24,O24,High,28428
 Plate 2,sample_384_plate2.csv,P,1,P01,Low,350
 Plate 2,sample_384_plate2.csv,P,2,P02,High,32010
@@ -765,10 +734,8 @@ Plate 2,sample_384_plate2.csv,P,19,P19,Experimental,14864
 Plate 2,sample_384_plate2.csv,P,20,P20,Experimental,19317
 Plate 2,sample_384_plate2.csv,P,21,P21,Experimental,22410
 Plate 2,sample_384_plate2.csv,P,22,P22,Experimental,14607
-Plate 2,sample_384_plate2.csv,P,23,P23,Medium,9382
 Plate 2,sample_384_plate2.csv,P,24,P24,High,28105
 Plate 3,sample_384_plate3.csv,A,1,A01,Low,243
-Plate 3,sample_384_plate3.csv,A,2,A02,Medium,11507
 Plate 3,sample_384_plate3.csv,A,3,A03,Experimental,14643
 Plate 3,sample_384_plate3.csv,A,4,A04,Experimental,18614
 Plate 3,sample_384_plate3.csv,A,5,A05,Experimental,25760
@@ -792,7 +759,6 @@ Plate 3,sample_384_plate3.csv,A,22,A22,Experimental,24525
 Plate 3,sample_384_plate3.csv,A,23,A23,Low,376
 Plate 3,sample_384_plate3.csv,A,24,A24,High,27825
 Plate 3,sample_384_plate3.csv,B,1,B01,Low,288
-Plate 3,sample_384_plate3.csv,B,2,B02,Medium,10475
 Plate 3,sample_384_plate3.csv,B,3,B03,Experimental,1887
 Plate 3,sample_384_plate3.csv,B,4,B04,Experimental,12774
 Plate 3,sample_384_plate3.csv,B,5,B05,Experimental,26193
@@ -816,7 +782,6 @@ Plate 3,sample_384_plate3.csv,B,22,B22,Experimental,14346
 Plate 3,sample_384_plate3.csv,B,23,B23,Low,221
 Plate 3,sample_384_plate3.csv,B,24,B24,High,29995
 Plate 3,sample_384_plate3.csv,C,1,C01,Low,281
-Plate 3,sample_384_plate3.csv,C,2,C02,Medium,11421
 Plate 3,sample_384_plate3.csv,C,3,C03,Experimental,18625
 Plate 3,sample_384_plate3.csv,C,4,C04,Experimental,12338
 Plate 3,sample_384_plate3.csv,C,5,C05,Experimental,11924
@@ -840,7 +805,6 @@ Plate 3,sample_384_plate3.csv,C,22,C22,Experimental,31429
 Plate 3,sample_384_plate3.csv,C,23,C23,Low,225
 Plate 3,sample_384_plate3.csv,C,24,C24,High,28450
 Plate 3,sample_384_plate3.csv,D,1,D01,Low,265
-Plate 3,sample_384_plate3.csv,D,2,D02,Medium,11095
 Plate 3,sample_384_plate3.csv,D,3,D03,Experimental,8166
 Plate 3,sample_384_plate3.csv,D,4,D04,Experimental,18725
 Plate 3,sample_384_plate3.csv,D,5,D05,Experimental,9232
@@ -864,7 +828,6 @@ Plate 3,sample_384_plate3.csv,D,22,D22,Experimental,19009
 Plate 3,sample_384_plate3.csv,D,23,D23,Low,406
 Plate 3,sample_384_plate3.csv,D,24,D24,High,28684
 Plate 3,sample_384_plate3.csv,E,1,E01,Low,314
-Plate 3,sample_384_plate3.csv,E,2,E02,Medium,8697
 Plate 3,sample_384_plate3.csv,E,3,E03,Experimental,6035
 Plate 3,sample_384_plate3.csv,E,4,E04,Experimental,12227
 Plate 3,sample_384_plate3.csv,E,5,E05,Experimental,7709
@@ -888,7 +851,6 @@ Plate 3,sample_384_plate3.csv,E,22,E22,Experimental,17336
 Plate 3,sample_384_plate3.csv,E,23,E23,Low,312
 Plate 3,sample_384_plate3.csv,E,24,E24,High,31634
 Plate 3,sample_384_plate3.csv,F,1,F01,Low,311
-Plate 3,sample_384_plate3.csv,F,2,F02,Medium,11810
 Plate 3,sample_384_plate3.csv,F,3,F03,Experimental,18205
 Plate 3,sample_384_plate3.csv,F,4,F04,Experimental,8883
 Plate 3,sample_384_plate3.csv,F,5,F05,Experimental,6863
@@ -912,7 +874,6 @@ Plate 3,sample_384_plate3.csv,F,22,F22,Experimental,22359
 Plate 3,sample_384_plate3.csv,F,23,F23,Low,232
 Plate 3,sample_384_plate3.csv,F,24,F24,High,28967
 Plate 3,sample_384_plate3.csv,G,1,G01,Low,123
-Plate 3,sample_384_plate3.csv,G,2,G02,Medium,9193
 Plate 3,sample_384_plate3.csv,G,3,G03,Experimental,20706
 Plate 3,sample_384_plate3.csv,G,4,G04,Experimental,7426
 Plate 3,sample_384_plate3.csv,G,5,G05,Experimental,17810
@@ -936,7 +897,6 @@ Plate 3,sample_384_plate3.csv,G,22,G22,Experimental,23605
 Plate 3,sample_384_plate3.csv,G,23,G23,Low,239
 Plate 3,sample_384_plate3.csv,G,24,G24,High,28978
 Plate 3,sample_384_plate3.csv,H,1,H01,Low,297
-Plate 3,sample_384_plate3.csv,H,2,H02,Medium,8081
 Plate 3,sample_384_plate3.csv,H,3,H03,Experimental,11016
 Plate 3,sample_384_plate3.csv,H,4,H04,Experimental,22507
 Plate 3,sample_384_plate3.csv,H,5,H05,Experimental,5215
@@ -981,7 +941,6 @@ Plate 3,sample_384_plate3.csv,I,19,I19,Experimental,11921
 Plate 3,sample_384_plate3.csv,I,20,I20,Experimental,2592
 Plate 3,sample_384_plate3.csv,I,21,I21,Experimental,1233
 Plate 3,sample_384_plate3.csv,I,22,I22,Experimental,15143
-Plate 3,sample_384_plate3.csv,I,23,I23,Medium,9069
 Plate 3,sample_384_plate3.csv,I,24,I24,High,30800
 Plate 3,sample_384_plate3.csv,J,1,J01,Low,290
 Plate 3,sample_384_plate3.csv,J,2,J02,High,32201
@@ -1005,7 +964,6 @@ Plate 3,sample_384_plate3.csv,J,19,J19,Experimental,10732
 Plate 3,sample_384_plate3.csv,J,20,J20,Experimental,200
 Plate 3,sample_384_plate3.csv,J,21,J21,Experimental,22519
 Plate 3,sample_384_plate3.csv,J,22,J22,Experimental,22604
-Plate 3,sample_384_plate3.csv,J,23,J23,Medium,7177
 Plate 3,sample_384_plate3.csv,J,24,J24,High,32409
 Plate 3,sample_384_plate3.csv,K,1,K01,Low,285
 Plate 3,sample_384_plate3.csv,K,2,K02,High,26953
@@ -1029,7 +987,6 @@ Plate 3,sample_384_plate3.csv,K,19,K19,Experimental,17140
 Plate 3,sample_384_plate3.csv,K,20,K20,Experimental,22027
 Plate 3,sample_384_plate3.csv,K,21,K21,Experimental,12340
 Plate 3,sample_384_plate3.csv,K,22,K22,Experimental,31737
-Plate 3,sample_384_plate3.csv,K,23,K23,Medium,10881
 Plate 3,sample_384_plate3.csv,K,24,K24,High,26375
 Plate 3,sample_384_plate3.csv,L,1,L01,Low,379
 Plate 3,sample_384_plate3.csv,L,2,L02,High,29900
@@ -1053,7 +1010,6 @@ Plate 3,sample_384_plate3.csv,L,19,L19,Experimental,13709
 Plate 3,sample_384_plate3.csv,L,20,L20,Experimental,18596
 Plate 3,sample_384_plate3.csv,L,21,L21,Experimental,200
 Plate 3,sample_384_plate3.csv,L,22,L22,Experimental,11673
-Plate 3,sample_384_plate3.csv,L,23,L23,Medium,15184
 Plate 3,sample_384_plate3.csv,L,24,L24,High,30749
 Plate 3,sample_384_plate3.csv,M,1,M01,Low,379
 Plate 3,sample_384_plate3.csv,M,2,M02,High,30678
@@ -1077,7 +1033,6 @@ Plate 3,sample_384_plate3.csv,M,19,M19,Experimental,10729
 Plate 3,sample_384_plate3.csv,M,20,M20,Experimental,14430
 Plate 3,sample_384_plate3.csv,M,21,M21,Experimental,10046
 Plate 3,sample_384_plate3.csv,M,22,M22,Experimental,24700
-Plate 3,sample_384_plate3.csv,M,23,M23,Medium,10281
 Plate 3,sample_384_plate3.csv,M,24,M24,High,30039
 Plate 3,sample_384_plate3.csv,N,1,N01,Low,354
 Plate 3,sample_384_plate3.csv,N,2,N02,High,34979
@@ -1101,7 +1056,6 @@ Plate 3,sample_384_plate3.csv,N,19,N19,Experimental,14754
 Plate 3,sample_384_plate3.csv,N,20,N20,Experimental,7948
 Plate 3,sample_384_plate3.csv,N,21,N21,Experimental,17825
 Plate 3,sample_384_plate3.csv,N,22,N22,Experimental,7869
-Plate 3,sample_384_plate3.csv,N,23,N23,Medium,11581
 Plate 3,sample_384_plate3.csv,N,24,N24,High,27216
 Plate 3,sample_384_plate3.csv,O,1,O01,Low,326
 Plate 3,sample_384_plate3.csv,O,2,O02,High,32559
@@ -1125,7 +1079,6 @@ Plate 3,sample_384_plate3.csv,O,19,O19,Experimental,11765
 Plate 3,sample_384_plate3.csv,O,20,O20,Experimental,27334
 Plate 3,sample_384_plate3.csv,O,21,O21,Experimental,21401
 Plate 3,sample_384_plate3.csv,O,22,O22,Experimental,24178
-Plate 3,sample_384_plate3.csv,O,23,O23,Medium,9675
 Plate 3,sample_384_plate3.csv,O,24,O24,High,27850
 Plate 3,sample_384_plate3.csv,P,1,P01,Low,171
 Plate 3,sample_384_plate3.csv,P,2,P02,High,29555
@@ -1149,10 +1102,8 @@ Plate 3,sample_384_plate3.csv,P,19,P19,Experimental,23295
 Plate 3,sample_384_plate3.csv,P,20,P20,Experimental,4448
 Plate 3,sample_384_plate3.csv,P,21,P21,Experimental,13446
 Plate 3,sample_384_plate3.csv,P,22,P22,Experimental,19702
-Plate 3,sample_384_plate3.csv,P,23,P23,Medium,8586
 Plate 3,sample_384_plate3.csv,P,24,P24,High,28627
 Plate 4,sample_384_plate4.csv,A,1,A01,Low,288
-Plate 4,sample_384_plate4.csv,A,2,A02,Medium,14114
 Plate 4,sample_384_plate4.csv,A,3,A03,Experimental,17266
 Plate 4,sample_384_plate4.csv,A,4,A04,Experimental,25638
 Plate 4,sample_384_plate4.csv,A,5,A05,Experimental,13763
@@ -1176,7 +1127,6 @@ Plate 4,sample_384_plate4.csv,A,22,A22,Experimental,17094
 Plate 4,sample_384_plate4.csv,A,23,A23,Low,231
 Plate 4,sample_384_plate4.csv,A,24,A24,High,29624
 Plate 4,sample_384_plate4.csv,B,1,B01,Low,270
-Plate 4,sample_384_plate4.csv,B,2,B02,Medium,9076
 Plate 4,sample_384_plate4.csv,B,3,B03,Experimental,8468
 Plate 4,sample_384_plate4.csv,B,4,B04,Experimental,14639
 Plate 4,sample_384_plate4.csv,B,5,B05,Experimental,15970
@@ -1200,7 +1150,6 @@ Plate 4,sample_384_plate4.csv,B,22,B22,Experimental,19421
 Plate 4,sample_384_plate4.csv,B,23,B23,Low,234
 Plate 4,sample_384_plate4.csv,B,24,B24,High,29006
 Plate 4,sample_384_plate4.csv,C,1,C01,Low,386
-Plate 4,sample_384_plate4.csv,C,2,C02,Medium,8050
 Plate 4,sample_384_plate4.csv,C,3,C03,Experimental,12742
 Plate 4,sample_384_plate4.csv,C,4,C04,Experimental,14062
 Plate 4,sample_384_plate4.csv,C,5,C05,Experimental,18028
@@ -1224,7 +1173,6 @@ Plate 4,sample_384_plate4.csv,C,22,C22,Experimental,10111
 Plate 4,sample_384_plate4.csv,C,23,C23,Low,261
 Plate 4,sample_384_plate4.csv,C,24,C24,High,28782
 Plate 4,sample_384_plate4.csv,D,1,D01,Low,132
-Plate 4,sample_384_plate4.csv,D,2,D02,Medium,11278
 Plate 4,sample_384_plate4.csv,D,3,D03,Experimental,21194
 Plate 4,sample_384_plate4.csv,D,4,D04,Experimental,25228
 Plate 4,sample_384_plate4.csv,D,5,D05,Experimental,20642
@@ -1248,7 +1196,6 @@ Plate 4,sample_384_plate4.csv,D,22,D22,Experimental,12106
 Plate 4,sample_384_plate4.csv,D,23,D23,Low,334
 Plate 4,sample_384_plate4.csv,D,24,D24,High,31867
 Plate 4,sample_384_plate4.csv,E,1,E01,Low,424
-Plate 4,sample_384_plate4.csv,E,2,E02,Medium,10187
 Plate 4,sample_384_plate4.csv,E,3,E03,Experimental,17358
 Plate 4,sample_384_plate4.csv,E,4,E04,Experimental,26883
 Plate 4,sample_384_plate4.csv,E,5,E05,Experimental,6304
@@ -1272,7 +1219,6 @@ Plate 4,sample_384_plate4.csv,E,22,E22,Experimental,19439
 Plate 4,sample_384_plate4.csv,E,23,E23,Low,289
 Plate 4,sample_384_plate4.csv,E,24,E24,High,31335
 Plate 4,sample_384_plate4.csv,F,1,F01,Low,393
-Plate 4,sample_384_plate4.csv,F,2,F02,Medium,7966
 Plate 4,sample_384_plate4.csv,F,3,F03,Experimental,26765
 Plate 4,sample_384_plate4.csv,F,4,F04,Experimental,23130
 Plate 4,sample_384_plate4.csv,F,5,F05,Experimental,23048
@@ -1296,7 +1242,6 @@ Plate 4,sample_384_plate4.csv,F,22,F22,Experimental,13730
 Plate 4,sample_384_plate4.csv,F,23,F23,Low,267
 Plate 4,sample_384_plate4.csv,F,24,F24,High,27510
 Plate 4,sample_384_plate4.csv,G,1,G01,Low,326
-Plate 4,sample_384_plate4.csv,G,2,G02,Medium,7854
 Plate 4,sample_384_plate4.csv,G,3,G03,Experimental,13298
 Plate 4,sample_384_plate4.csv,G,4,G04,Experimental,24284
 Plate 4,sample_384_plate4.csv,G,5,G05,Experimental,24955
@@ -1320,7 +1265,6 @@ Plate 4,sample_384_plate4.csv,G,22,G22,Experimental,7612
 Plate 4,sample_384_plate4.csv,G,23,G23,Low,292
 Plate 4,sample_384_plate4.csv,G,24,G24,High,31155
 Plate 4,sample_384_plate4.csv,H,1,H01,Low,381
-Plate 4,sample_384_plate4.csv,H,2,H02,Medium,9543
 Plate 4,sample_384_plate4.csv,H,3,H03,Experimental,13477
 Plate 4,sample_384_plate4.csv,H,4,H04,Experimental,8590
 Plate 4,sample_384_plate4.csv,H,5,H05,Experimental,12951
@@ -1365,7 +1309,6 @@ Plate 4,sample_384_plate4.csv,I,19,I19,Experimental,13510
 Plate 4,sample_384_plate4.csv,I,20,I20,Experimental,4516
 Plate 4,sample_384_plate4.csv,I,21,I21,Experimental,14025
 Plate 4,sample_384_plate4.csv,I,22,I22,Experimental,10129
-Plate 4,sample_384_plate4.csv,I,23,I23,Medium,12887
 Plate 4,sample_384_plate4.csv,I,24,I24,High,30724
 Plate 4,sample_384_plate4.csv,J,1,J01,Low,401
 Plate 4,sample_384_plate4.csv,J,2,J02,High,30222
@@ -1389,7 +1332,6 @@ Plate 4,sample_384_plate4.csv,J,19,J19,Experimental,21014
 Plate 4,sample_384_plate4.csv,J,20,J20,Experimental,11673
 Plate 4,sample_384_plate4.csv,J,21,J21,Experimental,2691
 Plate 4,sample_384_plate4.csv,J,22,J22,Experimental,11612
-Plate 4,sample_384_plate4.csv,J,23,J23,Medium,9772
 Plate 4,sample_384_plate4.csv,J,24,J24,High,30959
 Plate 4,sample_384_plate4.csv,K,1,K01,Low,236
 Plate 4,sample_384_plate4.csv,K,2,K02,High,31039
@@ -1413,7 +1355,6 @@ Plate 4,sample_384_plate4.csv,K,19,K19,Experimental,19489
 Plate 4,sample_384_plate4.csv,K,20,K20,Experimental,14252
 Plate 4,sample_384_plate4.csv,K,21,K21,Experimental,11163
 Plate 4,sample_384_plate4.csv,K,22,K22,Experimental,24828
-Plate 4,sample_384_plate4.csv,K,23,K23,Medium,8677
 Plate 4,sample_384_plate4.csv,K,24,K24,High,33486
 Plate 4,sample_384_plate4.csv,L,1,L01,Low,242
 Plate 4,sample_384_plate4.csv,L,2,L02,High,31880
@@ -1437,7 +1378,6 @@ Plate 4,sample_384_plate4.csv,L,19,L19,Experimental,20853
 Plate 4,sample_384_plate4.csv,L,20,L20,Experimental,7683
 Plate 4,sample_384_plate4.csv,L,21,L21,Experimental,20723
 Plate 4,sample_384_plate4.csv,L,22,L22,Experimental,200
-Plate 4,sample_384_plate4.csv,L,23,L23,Medium,9905
 Plate 4,sample_384_plate4.csv,L,24,L24,High,31235
 Plate 4,sample_384_plate4.csv,M,1,M01,Low,153
 Plate 4,sample_384_plate4.csv,M,2,M02,High,31163
@@ -1461,7 +1401,6 @@ Plate 4,sample_384_plate4.csv,M,19,M19,Experimental,16469
 Plate 4,sample_384_plate4.csv,M,20,M20,Experimental,8358
 Plate 4,sample_384_plate4.csv,M,21,M21,Experimental,8810
 Plate 4,sample_384_plate4.csv,M,22,M22,Experimental,17134
-Plate 4,sample_384_plate4.csv,M,23,M23,Medium,11427
 Plate 4,sample_384_plate4.csv,M,24,M24,High,28259
 Plate 4,sample_384_plate4.csv,N,1,N01,Low,246
 Plate 4,sample_384_plate4.csv,N,2,N02,High,28829
@@ -1485,7 +1424,6 @@ Plate 4,sample_384_plate4.csv,N,19,N19,Experimental,28050
 Plate 4,sample_384_plate4.csv,N,20,N20,Experimental,7339
 Plate 4,sample_384_plate4.csv,N,21,N21,Experimental,19243
 Plate 4,sample_384_plate4.csv,N,22,N22,Experimental,3910
-Plate 4,sample_384_plate4.csv,N,23,N23,Medium,13161
 Plate 4,sample_384_plate4.csv,N,24,N24,High,28733
 Plate 4,sample_384_plate4.csv,O,1,O01,Low,369
 Plate 4,sample_384_plate4.csv,O,2,O02,High,30443
@@ -1509,7 +1447,6 @@ Plate 4,sample_384_plate4.csv,O,19,O19,Experimental,14854
 Plate 4,sample_384_plate4.csv,O,20,O20,Experimental,19872
 Plate 4,sample_384_plate4.csv,O,21,O21,Experimental,19500
 Plate 4,sample_384_plate4.csv,O,22,O22,Experimental,19233
-Plate 4,sample_384_plate4.csv,O,23,O23,Medium,8247
 Plate 4,sample_384_plate4.csv,O,24,O24,High,26766
 Plate 4,sample_384_plate4.csv,P,1,P01,Low,328
 Plate 4,sample_384_plate4.csv,P,2,P02,High,28593
@@ -1533,10 +1470,8 @@ Plate 4,sample_384_plate4.csv,P,19,P19,Experimental,6995
 Plate 4,sample_384_plate4.csv,P,20,P20,Experimental,9852
 Plate 4,sample_384_plate4.csv,P,21,P21,Experimental,30698
 Plate 4,sample_384_plate4.csv,P,22,P22,Experimental,30840
-Plate 4,sample_384_plate4.csv,P,23,P23,Medium,10857
 Plate 4,sample_384_plate4.csv,P,24,P24,High,31241
 Plate 5,sample_384_plate5.csv,A,1,A01,Low,170
-Plate 5,sample_384_plate5.csv,A,2,A02,Medium,9796
 Plate 5,sample_384_plate5.csv,A,3,A03,Experimental,521
 Plate 5,sample_384_plate5.csv,A,4,A04,Experimental,17101
 Plate 5,sample_384_plate5.csv,A,5,A05,Experimental,17079
@@ -1560,7 +1495,6 @@ Plate 5,sample_384_plate5.csv,A,22,A22,Experimental,7052
 Plate 5,sample_384_plate5.csv,A,23,A23,Low,286
 Plate 5,sample_384_plate5.csv,A,24,A24,High,30575
 Plate 5,sample_384_plate5.csv,B,1,B01,Low,323
-Plate 5,sample_384_plate5.csv,B,2,B02,Medium,9624
 Plate 5,sample_384_plate5.csv,B,3,B03,Experimental,12055
 Plate 5,sample_384_plate5.csv,B,4,B04,Experimental,26606
 Plate 5,sample_384_plate5.csv,B,5,B05,Experimental,16753
@@ -1584,7 +1518,6 @@ Plate 5,sample_384_plate5.csv,B,22,B22,Experimental,9488
 Plate 5,sample_384_plate5.csv,B,23,B23,Low,311
 Plate 5,sample_384_plate5.csv,B,24,B24,High,32528
 Plate 5,sample_384_plate5.csv,C,1,C01,Low,202
-Plate 5,sample_384_plate5.csv,C,2,C02,Medium,8956
 Plate 5,sample_384_plate5.csv,C,3,C03,Experimental,10459
 Plate 5,sample_384_plate5.csv,C,4,C04,Experimental,6962
 Plate 5,sample_384_plate5.csv,C,5,C05,Experimental,16577
@@ -1608,7 +1541,6 @@ Plate 5,sample_384_plate5.csv,C,22,C22,Experimental,15475
 Plate 5,sample_384_plate5.csv,C,23,C23,Low,369
 Plate 5,sample_384_plate5.csv,C,24,C24,High,27093
 Plate 5,sample_384_plate5.csv,D,1,D01,Low,342
-Plate 5,sample_384_plate5.csv,D,2,D02,Medium,9549
 Plate 5,sample_384_plate5.csv,D,3,D03,Experimental,24046
 Plate 5,sample_384_plate5.csv,D,4,D04,Experimental,14117
 Plate 5,sample_384_plate5.csv,D,5,D05,Experimental,10386
@@ -1632,7 +1564,6 @@ Plate 5,sample_384_plate5.csv,D,22,D22,Experimental,7377
 Plate 5,sample_384_plate5.csv,D,23,D23,Low,253
 Plate 5,sample_384_plate5.csv,D,24,D24,High,30011
 Plate 5,sample_384_plate5.csv,E,1,E01,Low,111
-Plate 5,sample_384_plate5.csv,E,2,E02,Medium,10386
 Plate 5,sample_384_plate5.csv,E,3,E03,Experimental,21691
 Plate 5,sample_384_plate5.csv,E,4,E04,Experimental,22640
 Plate 5,sample_384_plate5.csv,E,5,E05,Experimental,16407
@@ -1656,7 +1587,6 @@ Plate 5,sample_384_plate5.csv,E,22,E22,Experimental,23533
 Plate 5,sample_384_plate5.csv,E,23,E23,Low,372
 Plate 5,sample_384_plate5.csv,E,24,E24,High,26358
 Plate 5,sample_384_plate5.csv,F,1,F01,Low,451
-Plate 5,sample_384_plate5.csv,F,2,F02,Medium,9277
 Plate 5,sample_384_plate5.csv,F,3,F03,Experimental,38000
 Plate 5,sample_384_plate5.csv,F,4,F04,Experimental,29438
 Plate 5,sample_384_plate5.csv,F,5,F05,Experimental,8946
@@ -1680,7 +1610,6 @@ Plate 5,sample_384_plate5.csv,F,22,F22,Experimental,21173
 Plate 5,sample_384_plate5.csv,F,23,F23,Low,250
 Plate 5,sample_384_plate5.csv,F,24,F24,High,28760
 Plate 5,sample_384_plate5.csv,G,1,G01,Low,228
-Plate 5,sample_384_plate5.csv,G,2,G02,Medium,10340
 Plate 5,sample_384_plate5.csv,G,3,G03,Experimental,7677
 Plate 5,sample_384_plate5.csv,G,4,G04,Experimental,19343
 Plate 5,sample_384_plate5.csv,G,5,G05,Experimental,16107
@@ -1704,7 +1633,6 @@ Plate 5,sample_384_plate5.csv,G,22,G22,Experimental,18514
 Plate 5,sample_384_plate5.csv,G,23,G23,Low,283
 Plate 5,sample_384_plate5.csv,G,24,G24,High,29315
 Plate 5,sample_384_plate5.csv,H,1,H01,Low,225
-Plate 5,sample_384_plate5.csv,H,2,H02,Medium,4000
 Plate 5,sample_384_plate5.csv,H,3,H03,Experimental,2084
 Plate 5,sample_384_plate5.csv,H,4,H04,Experimental,13880
 Plate 5,sample_384_plate5.csv,H,5,H05,Experimental,4268
@@ -1749,7 +1677,6 @@ Plate 5,sample_384_plate5.csv,I,19,I19,Experimental,13829
 Plate 5,sample_384_plate5.csv,I,20,I20,Experimental,27353
 Plate 5,sample_384_plate5.csv,I,21,I21,Experimental,15146
 Plate 5,sample_384_plate5.csv,I,22,I22,Experimental,11914
-Plate 5,sample_384_plate5.csv,I,23,I23,Medium,8369
 Plate 5,sample_384_plate5.csv,I,24,I24,High,25852
 Plate 5,sample_384_plate5.csv,J,1,J01,Low,273
 Plate 5,sample_384_plate5.csv,J,2,J02,High,29547
@@ -1773,7 +1700,6 @@ Plate 5,sample_384_plate5.csv,J,19,J19,Experimental,18762
 Plate 5,sample_384_plate5.csv,J,20,J20,Experimental,20015
 Plate 5,sample_384_plate5.csv,J,21,J21,Experimental,7147
 Plate 5,sample_384_plate5.csv,J,22,J22,Experimental,24943
-Plate 5,sample_384_plate5.csv,J,23,J23,Medium,10068
 Plate 5,sample_384_plate5.csv,J,24,J24,High,30801
 Plate 5,sample_384_plate5.csv,K,1,K01,Low,365
 Plate 5,sample_384_plate5.csv,K,2,K02,High,29932
@@ -1797,7 +1723,6 @@ Plate 5,sample_384_plate5.csv,K,19,K19,Experimental,38000
 Plate 5,sample_384_plate5.csv,K,20,K20,Experimental,6871
 Plate 5,sample_384_plate5.csv,K,21,K21,Experimental,19137
 Plate 5,sample_384_plate5.csv,K,22,K22,Experimental,2020
-Plate 5,sample_384_plate5.csv,K,23,K23,Medium,11115
 Plate 5,sample_384_plate5.csv,K,24,K24,High,27068
 Plate 5,sample_384_plate5.csv,L,1,L01,Low,301
 Plate 5,sample_384_plate5.csv,L,2,L02,High,30131
@@ -1821,7 +1746,6 @@ Plate 5,sample_384_plate5.csv,L,19,L19,Experimental,13262
 Plate 5,sample_384_plate5.csv,L,20,L20,Experimental,15662
 Plate 5,sample_384_plate5.csv,L,21,L21,Experimental,9855
 Plate 5,sample_384_plate5.csv,L,22,L22,Experimental,21340
-Plate 5,sample_384_plate5.csv,L,23,L23,Medium,11316
 Plate 5,sample_384_plate5.csv,L,24,L24,High,30633
 Plate 5,sample_384_plate5.csv,M,1,M01,Low,289
 Plate 5,sample_384_plate5.csv,M,2,M02,High,29344
@@ -1845,7 +1769,6 @@ Plate 5,sample_384_plate5.csv,M,19,M19,Experimental,17558
 Plate 5,sample_384_plate5.csv,M,20,M20,Experimental,14699
 Plate 5,sample_384_plate5.csv,M,21,M21,Experimental,26710
 Plate 5,sample_384_plate5.csv,M,22,M22,Experimental,15191
-Plate 5,sample_384_plate5.csv,M,23,M23,Medium,11061
 Plate 5,sample_384_plate5.csv,M,24,M24,High,29139
 Plate 5,sample_384_plate5.csv,N,1,N01,Low,210
 Plate 5,sample_384_plate5.csv,N,2,N02,High,28953
@@ -1869,7 +1792,6 @@ Plate 5,sample_384_plate5.csv,N,19,N19,Experimental,14272
 Plate 5,sample_384_plate5.csv,N,20,N20,Experimental,6963
 Plate 5,sample_384_plate5.csv,N,21,N21,Experimental,20661
 Plate 5,sample_384_plate5.csv,N,22,N22,Experimental,16926
-Plate 5,sample_384_plate5.csv,N,23,N23,Medium,11083
 Plate 5,sample_384_plate5.csv,N,24,N24,High,26811
 Plate 5,sample_384_plate5.csv,O,1,O01,Low,199
 Plate 5,sample_384_plate5.csv,O,2,O02,High,32268
@@ -1893,7 +1815,6 @@ Plate 5,sample_384_plate5.csv,O,19,O19,Experimental,7383
 Plate 5,sample_384_plate5.csv,O,20,O20,Experimental,8239
 Plate 5,sample_384_plate5.csv,O,21,O21,Experimental,25364
 Plate 5,sample_384_plate5.csv,O,22,O22,Experimental,7927
-Plate 5,sample_384_plate5.csv,O,23,O23,Medium,7681
 Plate 5,sample_384_plate5.csv,O,24,O24,High,32367
 Plate 5,sample_384_plate5.csv,P,1,P01,Low,366
 Plate 5,sample_384_plate5.csv,P,2,P02,High,28440
@@ -1917,5 +1838,4 @@ Plate 5,sample_384_plate5.csv,P,19,P19,Experimental,28810
 Plate 5,sample_384_plate5.csv,P,20,P20,Experimental,12825
 Plate 5,sample_384_plate5.csv,P,21,P21,Experimental,14203
 Plate 5,sample_384_plate5.csv,P,22,P22,Experimental,4861
-Plate 5,sample_384_plate5.csv,P,23,P23,Medium,11851
 Plate 5,sample_384_plate5.csv,P,24,P24,High,33732
