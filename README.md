@@ -16,27 +16,26 @@ Each plate is a 16-row (A–P) × 24-column (1–24) grid:
 
 ```
      01  02  03  04 ... 20  21  22  23  24
-A  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-B  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-C  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-D  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-E  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-F  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-G  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-H  [  L][  ][ E][ E]...[ E][ E][ E][ L][ H]
-I  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-J  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-K  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-L  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-M  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-N  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-O  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
-P  [  L][ H][ E][ E]...[ E][ E][ E][  ][ H]
+A  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+B  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+C  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+D  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+E  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+F  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+G  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+H  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
+I  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+J  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+K  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+L  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+M  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+N  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+O  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+P  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
 
-L  = Low control    (~100–500 RFU)       Col 1 all rows, Col 23 rows A–H
-H  = High control   (~25,000–35,000 RFU) Col 2 rows I–P, Col 24 all rows
-E  = Experimental   (~500–30,000 RFU)    Columns 3–22 all rows
-[ ] = Excluded      Col 2 rows A–H, Col 23 rows I–P (medium controls removed)
+L = Low control     (~100–500 RFU)       Col 1 all rows, Col 23 rows A–H
+H = High control    (~25,000–35,000 RFU) Col 2 all rows, Col 23 rows I–P, Col 24 all rows
+E = Experimental    (~500–30,000 RFU)    Columns 3–22 all rows
 ```
 
 ---
