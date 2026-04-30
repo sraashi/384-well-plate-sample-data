@@ -93,21 +93,25 @@ background noise, making them inherently variable. This is typical in real HTS a
 
 ## Hit Calling
 
-- **>50% activity:** 794 hits across 5 plates
-- **>75% activity:** 253 hits across 5 plates (used for dose-response follow-up)
+Wells exceeding 100% activity are excluded as likely false positives (signal artefacts above the high control baseline).
+
+- **>50% and ≤100% activity:** 749 hits across 5 plates
+- **>75% and ≤100% activity:** 208 hits across 5 plates (used for dose-response follow-up)
 
 Top 10 hits by % activity:
 
 | Plate | Well | % Activity |
 |---|---|---|
-| Plate 5 | D14, F03, K19 | 129.2% |
-| Plate 3 | I14 | 127.7% |
-| Plate 2 | N05 | 127.6% |
-| Plate 4 | C10 | 127.1% |
-| Plate 1 | I18 | 126.0% |
-| Plate 1 | H12 | 121.8% |
-| Plate 2 | O15 | 121.5% |
-| Plate 4 | L13 | 120.5% |
+| Plate 3 | B21 | 99.90% |
+| Plate 5 | F04 | 99.89% |
+| Plate 2 | M09 | 99.79% |
+| Plate 1 | E11 | 99.54% |
+| Plate 1 | G13 | 98.99% |
+| Plate 1 | B08 | 98.63% |
+| Plate 2 | O05 | 98.29% |
+| Plate 5 | H17 | 98.27% |
+| Plate 4 | L03 | 98.20% |
+| Plate 2 | P14 | 98.19% |
 
 ---
 
