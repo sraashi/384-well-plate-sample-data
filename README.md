@@ -16,25 +16,26 @@ Each plate is a 16-row (A–P) × 24-column (1–24) grid:
 
 ```
      01  02  03  04 ... 20  21  22  23  24
-A  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-B  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-C  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-D  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-E  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-F  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-G  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-H  [  L][ H][ E][ E]...[ E][ E][ E][ L][ H]
-I  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-J  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-K  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-L  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-M  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-N  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-O  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
-P  [  L][ H][ E][ E]...[ E][ E][ E][ H][ H]
+A  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+B  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+C  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+D  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+E  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+F  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+G  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+H  [  L][ M][ E][ E]...[ E][ E][ E][ L][ H]
+I  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+J  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+K  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+L  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+M  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+N  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+O  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
+P  [  L][ H][ E][ E]...[ E][ E][ E][ M][ H]
 
 L = Low control     (~100–500 RFU)       Col 1 all rows, Col 23 rows A–H
-H = High control    (~25,000–35,000 RFU) Col 2 all rows, Col 23 rows I–P, Col 24 all rows
+M = Medium control  (~5,000–15,000 RFU)  Col 2 rows A–H, Col 23 rows I–P
+H = High control    (~25,000–35,000 RFU) Col 2 rows I–P, Col 24 all rows
 E = Experimental    (~500–30,000 RFU)    Columns 3–22 all rows
 ```
 
