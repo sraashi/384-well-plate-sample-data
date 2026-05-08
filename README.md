@@ -1,4 +1,4 @@
-# 384-Well Plate HTS Analysis Pipeline
+# HTS Analysis Pipeline
 
 A fully automated high-throughput screening (HTS) analysis pipeline using 5 simulated 384-well plates.
 The pipeline runs as a sequence of Jupyter notebooks, taking raw plate RFU data through to IC50 calculation.
