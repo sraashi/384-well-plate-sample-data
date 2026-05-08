@@ -1,4 +1,5 @@
 # HTS Analysis Pipeline
+Raw plate level data is not publicaly deposited - Pubchem abd chEMBL archive compounds level summaries
 
 A fully automated high-throughput screening (HTS) analysis pipeline using 5 simulated 384-well plates.
 The pipeline runs as a sequence of Jupyter notebooks, taking raw plate RFU data through to IC50 calculation.
