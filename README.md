@@ -77,6 +77,9 @@ Run the notebooks in order. Each notebook reads from the previous one's output.
 Note: %CV Low consistently fails because low control RFU values (~300 RFU) sit close to
 background noise, making them inherently variable. This is typical in real HTS assays.
 
+### QC Trellis Plot (all 5 plates)
+![QC Trellis Plot](data/results/trellis_QC_plot.png)
+
 ---
 
 ## Normalization
@@ -97,6 +100,9 @@ Wells exceeding 100% activity are excluded as likely false positives (signal art
 
 - **>50% and ≤100% activity:** 749 hits across 5 plates
 - **>75% and ≤100% activity:** 208 hits across 5 plates (used for dose-response follow-up)
+
+### Activity Distribution
+![Activity Distribution](data/results/activity_distribution.png)
 
 Top 10 hits by % activity:
 
@@ -123,6 +129,9 @@ A 4-parameter logistic (4PL) curve was fitted per compound using `scipy.optimize
 ```
 f(x) = A + (D - A) / (1 + (C/x)^B)
 ```
+
+### IC50 Curves (top 20 hits)
+![IC50 Curves](data/results/ic50_curves.png)
 
 Results saved in `data/results/ic50_results.csv`. See also the companion repo:
 [4-PL-Curve-fit-in-Python](https://github.com/sraashi/4-PL-Curve-fit-in-Python---numpy-and-scipy)
